@@ -1,9 +1,13 @@
 # Foundations of Quantum Universality
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
+[![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/siplasplas.svg?maxAge=2592000)]() 
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/mayabenowitz/siplasplas.svg?maxAge=2592000)]()
 
 
 This research program has a singular goal: embrace Everett's principle of quantum universality, apply quantum mechanics to the entire universe, and bootstrap to the exact form of the wave function of the universe. Everett's work on the foundations of quantum theory has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." Three (radically conservative) fundamental assumptions are made: 1) that the universe is quantum on all scales, 2) that the total-energy of the universe is exactly zero, and 3) that the *form* of the laws of physics remain unchanged on all scales. All papers attempt to work out the observable consequences of these principles, and dares to answer some of the deepest questions humanity has ever asked, including the origins of the universe and the nature of the cosmological singularity.
+
+Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)
 
 ## Open Source Science
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
@@ -12,7 +16,7 @@ The pursuit of knowledge is a fundamental right. It can be done by anyone, regar
 
 At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR. The quality of a paper should be determined by a fair sampling of the field's opinion. The speech here is nearly unrestricted. If something gets you fired up and spicy feel free to be combative (within reason). If you are anonymous and an asshole, I will view you with great suspicion and reserve the right to let you taste the ban hammer. If you are an asshole and not anonymous, I can respect that, but I won't like it.
 
-## The most ambitious research program in the history of science needs an institutional home
+## This program needs an institutional home!
 
 I love taking risks. That's why I left the academy to pursue this program. When I graduated in 2015 with a degree in mathematical physics from Utah State the dogma that is the Copenhagen interpretation was still in full-force. There was no obvious career path in quantum foundations, especially as a graduate student with a B+ average from a mid-tier state school. So I left and stayed true to myself, pursuing my obsession and daring the impossible. 
 
