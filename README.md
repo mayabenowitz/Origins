@@ -1,12 +1,9 @@
 # Foundations of Quantum Universality
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)]
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/mayabenowitz/Origins)]
+[![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)]() 
+[![GitHub issues closed]()](https://img.shields.io/github/issues-closed/mayabenowitz/Origins)
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
-
-
-https://img.shields.io/twitter/follow/cosmicfibretion?style=social
 
 
 This research program has a singular goal: embrace Everett's principle of quantum universality, apply quantum mechanics to the entire universe, and bootstrap to the exact form of the wave function of the universe. Everett's work on the foundations of quantum theory has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." Three (radically conservative) fundamental assumptions are made: 1) that the universe is quantum on all scales, 2) that the total-energy of the universe is exactly zero, and 3) that the *form* of the laws of physics remain unchanged on all scales. All papers attempt to work out the observable consequences of these principles, and dares to answer some of the deepest questions humanity has ever asked, including the origins of the universe and the nature of the cosmological singularity.
