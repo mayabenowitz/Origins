@@ -2,7 +2,7 @@
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)]() 
-[![GitHub issues closed]()](https://img.shields.io/github/issues-closed/mayabenowitz/Origins)
+[![GitHub issues closed]](https://img.shields.io/github/issues-closed/mayabenowitz/Origins)
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
@@ -12,6 +12,7 @@ Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Sing
 
 ## Open Source Science
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
+![Contributors](https://img.shields.io/github/contributors/mayabenowitz/Origins)
 
 The pursuit of knowledge is a fundamental right. It can be done by anyone, regardless of status, nationality, race, gender, or otherwise. This research program practices a radical form of open source science. Anyone can contribute. If an error is found in one of the manuscripts **please** open an issue and feel free to discuss with others with similar takes. While I can't promise to address every issue raised, I will do my best. If you have well-fleshed comments or rebuttals please feel free to open a Pull Request (PR) with your submission. 
 
