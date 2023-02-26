@@ -26,7 +26,7 @@ Unfortunately, I can't submit the first manuscript to JHEP because I need an ArX
 
 This research program practices a radical form of open source science. Anyone can contribute. If an error is found in one of the manuscripts **please** open an issue and feel free to discuss with others with similar takes. While I can't promise to address every issue raised, I will do my best. If you have well-fleshed comments or rebuttals please, feel free to open a Pull Request (PR) with your submission!
 
-At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR.
+***At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR.***
 
 ### Contribution policy
 
