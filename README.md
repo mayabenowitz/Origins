@@ -16,9 +16,9 @@ Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Sing
 
 This research program practices a radical form of open source science. Anyone can contribute. If an error is found in one of the manuscripts **please** open an issue and feel free to discuss with others with similar takes. While I can't promise to address every issue raised, I will do my best. If you have well-fleshed comments or rebuttals please feel free to open a Pull Request (PR) with your submission. 
 
-At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR. The quality of a paper should be determined by a fair sampling of the field's opinion. The speech here is nearly unrestricted. 
+At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR. The quality of a paper should be determined by a fair sampling of the field's opinion. 
 
-If something gets you fired up and spicy, feel free to be combative (within reason). If you are anonymous and an asshole, I will view you with great suspicion and reserve the right to let you taste the ban hammer. If you are an asshole and *not* anonymous, I can respect that.
+The speech here is nearly unrestricted. If something gets you fired up and spicy, feel free to be combative (within reason). If you are anonymous and an asshole, I will view you with great suspicion and reserve the right to let you taste the ban hammer. If you are an asshole and *not* anonymous, I can respect that.
 
 ## This program needs an institutional home!
 
@@ -26,7 +26,7 @@ I love taking risks. That's why I left the academy to pursue this program. When 
 
 ## Help wanted
 
-Unfortunately, I can't submit the first manuscript to JHEP because I need an ArXiv link. And I can't post to the ArXiv without an .edu email and a history of posting to gr-qc. I need a sponsor, but not any sponsor. It has to be someone with a recent history of posting to gr-qc for the manuscript to make it through the steel-clad gates so the "formal" peer-review process can begin. 
+Unfortunately, I can't submit the first manuscript to JHEP because I need an ArXiv link. And I can't post to the ArXiv without a .edu email and a history of posting to gr-qc. I need a sponsor, but not any sponsor. It has to be someone with a recent history of posting to gr-qc for the manuscript to make it through the steel-clad gates so the "formal" peer-review process can begin. 
 
 I'd love to have a university position, so if you're feeling a little wild, please contact me. I can not complete the theory on my own. This much I know. And there is much work to be done. 
 
