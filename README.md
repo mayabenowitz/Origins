@@ -1,8 +1,8 @@
 # Foundations of Quantum Universality
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)]
-<!-- ![GitHub issues closed](https://img.shields.io/github/issues-closed/mayabenowitz/Origins) -->
+![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)
+![GitHub issues closed](https://img.shields.io/github/issues-closed/mayabenowitz/Origins)
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
