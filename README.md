@@ -3,6 +3,7 @@
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
 ![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)
 ![GitHub issues closed](https://img.shields.io/github/issues-closed/mayabenowitz/Origins)
+![Contributors](https://img.shields.io/github/contributors/mayabenowitz/Origins?logoColor=green&style=social)
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
@@ -21,8 +22,6 @@ I'd love to have a university position, so if you're feeling a little wild, plea
 Unfortunately, I can't submit the first manuscript to JHEP because I need an ArXiv link. And I can't post to the ArXiv without a .edu email and a history of posting to gr-qc. I need a sponsor, but not any sponsor. It has to be someone with a recent history of posting to gr-qc for the manuscript to make it through the steel-clad gates so the "formal" peer-review process can begin.
 
 ## Open Source Science
-[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
-![Contributors](https://img.shields.io/github/contributors/mayabenowitz/Origins?logoColor=green&style=social)
 
 This research program practices a radical form of open source science. Anyone can contribute. If an error is found in one of the manuscripts **please** open an issue and feel free to discuss with others with similar takes. While I can't promise to address every issue raised, I will do my best. If you have well-fleshed comments or rebuttals please, feel free to open a Pull Request (PR) with your submission!
 
