@@ -28,7 +28,7 @@ This research program practices a radical form of open source science. Anyone ca
 
 ***At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR.***
 
-If you want to contribute (in either a technical capacity or an artistic one) to the program and/or collaborate on future papers please reach out! I've left most of the theory open. There are no shortage of calculations that can be done. Many of these calculations could even falsify the theory, or, lead to a consequence that either have been or will be observed.
+If you want to contribute (in either a technical capacity or an artistic one) to the program and/or collaborate on future papers please reach out! I've left most of the theory open. There are no shortage of calculations that can be done. Many of these calculations could even falsify the theory, or, lead to consequences that either have been or will be observed.
 
 ### Contribution policy
 
