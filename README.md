@@ -14,7 +14,7 @@ Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Sing
 
 I love taking risks. That's why I left the academy to pursue this program. When I graduated in 2015 with a degree in mathematical physics from Utah State, the dogma that is the Copenhagen interpretation was still in full-force. There was no obvious career path at the interection of quantum foundations and cosmology. And certainly no path that would tolerate my complete lack of risk aversion. So I left and stayed true to myself, daring to do the impossible.
 
-## Help wanted
+### Help wanted
 
 I'd love to have a university position, so if you're feeling a little wild, please contact me. I can not complete the theory on my own. This much I know. And there is much work to be done.
 
@@ -28,7 +28,7 @@ This research program practices a radical form of open source science. Anyone ca
 
 At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR.
 
-## Contribution policy
+### Contribution policy
 
 The speech here is nearly unrestricted. If something gets you fired up and spicy, feel free to be combative (within reason). If you are anonymous and an asshole, I will view you with great suspicion and reserve the right to let you taste the ban hammer. If you are an asshole and *not* anonymous, I can respect that.
 
