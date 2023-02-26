@@ -28,7 +28,7 @@ At this time, there are no guidelines for submission. (This is the Wild West of 
 
 Unfortunately, I can't submit the first manuscript to JHEP because I need an ArXiv link. And I can't post to the ArXiv without a .edu email and a history of posting to gr-qc. I need a sponsor, but not any sponsor. It has to be someone with a recent history of posting to gr-qc for the manuscript to make it through the steel-clad gates so the "formal" peer-review process can begin.
 
-### Policiy
+### Contribution policy
 
 The speech here is nearly unrestricted. If something gets you fired up and spicy, feel free to be combative (within reason). If you are anonymous and an asshole, I will view you with great suspicion and reserve the right to let you taste the ban hammer. If you are an asshole and *not* anonymous, I can respect that.
 
