@@ -22,7 +22,7 @@ Unfortunately, I can't submit the first manuscript to JHEP because I need an ArX
 
 ## Open Source Science
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
-![Contributors](https://img.shields.io/github/contributors/mayabenowitz/Origins)
+![Contributors](https://img.shields.io/github/contributors/mayabenowitz/Origins?logoColor=green&style=social)
 
 This research program practices a radical form of open source science. Anyone can contribute. If an error is found in one of the manuscripts **please** open an issue and feel free to discuss with others with similar takes. While I can't promise to address every issue raised, I will do my best. If you have well-fleshed comments or rebuttals please, feel free to open a Pull Request (PR) with your submission!
 
