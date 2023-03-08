@@ -1,6 +1,6 @@
 # Comments
 
-## Standford Postdoc in Quantum Gravity 07/02/2023
+## Stanford Postdoc in Quantum Gravity 07/02/2023
 
 Thank you very much for taking the time to make some comments on the paper. I appreciate you! While I don't entirely agree with some of the comments in the motivation section, they are no hill I am willing to die on, so I am not inlcuding them below. For the sake of argument, I will concede you these. 
 
