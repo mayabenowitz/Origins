@@ -34,7 +34,7 @@ Page 9: "Something from nothing is inconsistent with unitarity."
 
 comment: "Unitarity is a worry when notions of probability are relevant. If you have one wavefunction for the whole universe, only in subregions is there a meaningful concern about probabilities of repetable experiments etc. For the universe as a whole, unitarity is much harder to argue the need for don't you think?"
 
-response: No. Without unitarity quantum theory is nonsense and you can predict precisely nothing.
+response: No. Without unitarity quantum theory is nonsense and you can predict precisely nothing!
 
 comment: "I like the goemetry down here, and given that I have indicated my gripes above, I don't feel the need to re-iterate them here, so I'll leave this section relatively comment free. Even if you grant me the above criticisms, this very well could be a simplified model of something and the question in my opinion is what that something is."
 
