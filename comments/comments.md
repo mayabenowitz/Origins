@@ -14,7 +14,7 @@ Page 6: equation 2.1: $\left( \frac{-\hbar^2}{2M}\frac{\partial^2}{\partial a^2}
 
 comment: "When we're in the semiclassical regime, this equation has to boil down to the standard friedmann equation with all matter+dm sources turned on no? As it stands, it seems not to."
 
-response: "We are **not** in the semiclassical regime here. We are working from first principles in application of quantum theory to the entire universe. The entire purpose of this program is to work out the observable consequences of the stated principles. The equation should not reduce to the standard Friedmann equation. If it did we wouldn't be learning anything new. Before one can reach the Friedmann equation one first has to *derive* GR from the wave function of the universe."
+response: "We are **not** in the semiclassical regime here. We are working from first principles to apply quantum theory to the entire universe. The entire purpose of this program is to work out the observable consequences of the stated principles and emerge spacetime and all field content. Before one can reach the Friedmann equation one first has to *derive* GR from the wave function of the universe."
 
 
 Page 6: "Equation (2.1) is far from the whole story, yet one reads off an unambiguous prediction:
