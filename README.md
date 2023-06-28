@@ -9,7 +9,8 @@
 
 This research program has a singular goal: embrace Everett's principle of quantum universality, apply quantum mechanics to the entire universe, and bootstrap to the exact form of the wave function of the universe. Everett's work on the foundations of quantum theory has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." Three (radically conservative) fundamental assumptions are made: 1) that the universe is quantum on all scales, 2) that the total-energy of the universe is exactly zero, and 3) that the *form* of the laws of physics remain unchanged on all scales. All papers attempt to work out the observable consequences of these principles, and dares to answer some of the deepest questions humanity has ever asked.
 
-Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)
+~~Paper 0: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
+Paper 1: [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf)
 
 ## This program needs an institutional home!
 
@@ -17,9 +18,7 @@ I love taking risks. That's why I left the academy to pursue this program. When 
 
 ### Help wanted
 
-I'd love to have a university position, so if you're feeling a little wild, please contact me. I can not complete the theory on my own. This much I know. And there is much work to be done.
-
-Unfortunately, I can't submit the first manuscript to JHEP because I need an ArXiv link. And I can't post to the ArXiv without a .edu email and a history of posting to gr-qc. I need a sponsor, but not any sponsor. It has to be someone with a recent history of posting to gr-qc for the manuscript to make it through the steel-clad gates so the "formal" peer-review process can begin.
+There are *many* open problems in the program, some more technically challenging than others. Perhaps the most impactful place to make a contribution is solving the final equation in [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf) paper. In fact, you may falsify the theory if you find the Einstein field equations for the dual vacuum stress-energy tensor (which has the equation of state for dark matter) doesn't fit with observation! Or you might find just the opposite. 
 
 ## Open Source Science
 
