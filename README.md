@@ -7,14 +7,15 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
-This research program has a singular goal: embrace Everett's principle of quantum universality, apply quantum mechanics to the entire universe, and bootstrap to the exact form of the wave function of the universe. Everett's work on the foundations of quantum theory has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." Three (radically conservative) fundamental assumptions are made: 1) that the universe is quantum on all scales, 2) that the total-energy of the universe is exactly zero, and 3) that the *form* of the laws of physics remain unchanged on all scales. All papers attempt to work out the observable consequences of these principles, and dares to answer some of the deepest questions humanity has ever asked.
+ Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." The goal of this research program is to take Everett's principle of quantum universality, that the wavefunction of the universe exists and evolves unitarily according to the Schrodinger equation, as the foundational starting point to quantum cosmology. The goal of the program is radically ambitious: using nothing more than quantum universality, bootstrap to a unique closed-form wavefunction of the Universe and work out the observable consequences. 
 
 ~~Paper 0: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
+
 Paper 1: [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf)
 
 ## This program needs an institutional home!
 
-I love taking risks. That's why I left the academy to pursue this program. When I graduated in 2015 with a degree in mathematical physics from Utah State, the dogma that is the Copenhagen interpretation was still in full-force. There was no obvious career path at the interection of quantum foundations and cosmology. And certainly no path that would tolerate my complete lack of risk aversion. So I left and stayed true to myself, daring to do the impossible.
+I love taking risks. That's why I left the academy to pursue this program. When I graduated in 2015 with a degree in mathematical physics from Utah State, the dogma that is the Copenhagen interpretation was still in full-force. There was no obvious career path at the interection of quantum foundations and cosmology. And certainly no path that would tolerate my complete lack of risk aversion. So I left and pursued a research program that had be totally obsessed.
 
 ### Help wanted
 
