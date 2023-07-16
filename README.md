@@ -15,7 +15,7 @@ Paper 1: [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Or
 
 ## This program needs an institutional home!
 
-I love taking risks. That's why I left the academy to pursue this program. When I graduated in 2015 with a degree in mathematical physics from Utah State, the dogma that is the Copenhagen interpretation was still in full-force. There was no obvious career path at the interection of quantum foundations and cosmology. And certainly no path that would tolerate my complete lack of risk aversion. So I left and pursued a research program that had me totally obsessed.
+I love taking risks. That's why I left the academy to pursue this program. When I graduated in 2015 with a degree in mathematical physics from Utah State, the dogma that is the Copenhagen interpretation was still in full-force. There was no obvious career path at the intersection of quantum foundations and cosmology. And certainly no path that would tolerate my complete lack of risk aversion. So I left and pursued a research program that had me totally obsessed.
 
 ### Help wanted
 
