@@ -11,7 +11,9 @@
 
 ~~Paper 0: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
 
-Paper 1: [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf)
+~~Paper 1: [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf)~~
+
+Paper 2: [The Theory of the Initial Conditions](https://github.com/mayabenowitz/Origins/blob/main/manuscript/the_theory_of_the_initial_conditions_07042026.pdf)
 
 ## This program needs an institutional home!
 
