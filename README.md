@@ -21,20 +21,38 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
  
 ## Key Result: Quantum Cosmology from the Top Down
 
-$$ 
-    1. There is no external observer who prepared the initial state of the cosmos.
-    2. The \emph{form} of the laws of physics does not change with scale.
-    3. The universal wavefunction $\Psi$ exists and contains all physical information of the universe.
-    4. $\Psi$ obeys the timeless Schr\"{o}dinger equation,
-        \begin{equation}
-            \hat{H}\Psi = 0
-        \end{equation}
-    on all scales. Nature has no fundamental scale: $\Psi$ is scale-invariant. Only dimensionless quantities are fundamental.
-    5. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states $L^2[\mathbb{C}P^1(2,2,2)] \otimes \mathbb{C}^2$ where \mathbb{C}P^1(2,2,2) is the **surface of the initial data** and assigns a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
-$$
+1. There is no external observer who prepared the initial state of the cosmos.
+2. The *form* of the laws of physics does not change with scale.
+3. The universal wavefunction $\Psi$ exists and contains all physical information of the universe.
+4. $\Psi$ obeys the timeless Schrödinger equation,
+
+   $$
+   \hat{H}\Psi = 0
+   $$
+
+   on all scales. Nature has no fundamental scale: $\Psi$ is scale-invariant. Only dimensionless quantities are fundamental.
+5. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states
+   $L^2[\mathbb{C}P^1(2,2,2)] \otimes \mathbb{C}^2$, where
+   $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** and assigns a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
 
 ### Solution
 
-$$ \hat{H} =  -\partial_a^2I + \dfrac{\phi}{\pi a^2}\big( \dfrac{\phi}{\pi}I + \sigma_3\big) $$
+$$
+\hat{H}
+=
+-\partial_a^2 I
++
+\frac{\phi}{\pi a^2}
+\left(
+\frac{\phi}{\pi}I + \sigma_3
+\right)
+$$
 
-$$ \Psi(a, \phi) = \begin{pmatrix} (1 + e^{-i \phi})a^{-\phi/\pi} \\ (1 + e^{i \phi})a^{\phi/\pi} \end{pmatrix} $$
+$$
+\Psi(a,\phi)
+=
+\begin{pmatrix}
+(1 + e^{-i\phi})a^{-\phi/\pi} \\
+(1 + e^{i\phi})a^{\phi/\pi}
+\end{pmatrix}
+$$
