@@ -1,4 +1,4 @@
-# Foundations of Quantum Universality
+# The Quantum Origins of the Universe
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
 ![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)
@@ -7,31 +7,34 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." The goal of this research program is to take Everett's principle of quantum universality, that the wavefunction of the universe exists and evolves unitarily according to the Schrodinger equation, as the foundational starting point to quantum cosmology. The program is radically ambitious: using nothing more than quantum universality, bootstrap to a unique closed-form wavefunction of the Universe and work out the observable consequences. 
+ Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." The goal of this research program is to take Everett's principle of quantum universality to heart and make the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. For if we truly understood our cosmic origins---the separation between science and spirituality would collapse---and humanity would finally be able to *define* God (or Source). Perhaps then humanity could finally heal and give birth to a New Earth.
 
-~~Paper 0: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
+~~Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
 
-~~Paper 1: [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf)~~
+~~Paper 2: [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf)~~
 
-Paper 2: [The Theory of the Initial Conditions](https://github.com/mayabenowitz/Origins/blob/main/manuscript/the_theory_of_the_initial_conditions_07042026.pdf)
+Paper 3 (Final): [The Theory of the Initial Conditions](https://github.com/mayabenowitz/Origins/blob/main/manuscript/the_theory_of_the_initial_conditions_07042026.pdf)
 
-## This program needs an institutional home!
+## Abstract
 
-I love taking risks. That's why I left the academy to pursue this program. When I graduated in 2015 with a degree in mathematical physics from Utah State, the dogma that is the Copenhagen interpretation was still in full-force. There was no obvious career path at the intersection of quantum foundations and cosmology. And certainly no path that would tolerate my complete lack of risk aversion. So I left and pursued a research program that had me totally obsessed.
-
-### Help wanted
-
-There are *many* open problems in the program, some more technically challenging than others. Perhaps the most impactful place to make a contribution is solving the final equation in [The Everettian Conformal Bootstrap](https://github.com/mayabenowitz/Origins/blob/main/manuscript/everettian_conformal_bootstrap_PRL.pdf) paper. In fact, you may falsify the theory if you find the Einstein field equations for the dual vacuum stress-energy tensor (which has the equation of state for dark matter) doesn't fit with observation! Or you might find just the opposite. 
-
-## Open Source Science
-
-This research program practices a radical form of open source science. Anyone can contribute. If an error is found in one of the manuscripts **please** open an issue and feel free to discuss with others with similar takes. While I can't promise to address every issue raised, I will do my best. If you have well-fleshed comments or rebuttals please, feel free to open a Pull Request (PR) with your submission! Or, alternatively, anyone is free to make a thread on the `Discussions` tab of this research repository.
-
-***At this time, there are no guidelines for submission. (This is the Wild West of research at the knife's edge.) I strongly encourage subject matter experts with the desire to write a referee report to do so and open a PR.***
-
-If you want to contribute (in either a technical capacity or an artistic one) to the program and/or collaborate on future papers please reach out! There are no shortage of calculations that can be done. Many of these calculations could even falsify the theory, or, lead to consequences that either have been or will be observed.
-
-### Contribution policy
-
-The speech here is nearly unrestricted. If something gets you fired up and spicy, feel free to be combative (within reason). If you are anonymous and an asshole, I will view you with great suspicion and reserve the right to let you taste the ban hammer. If you are an asshole and *not* anonymous, I can respect that.
+We revisit old ideas with a modern perspective and approach quantum cosmology from a quantum information-theoretic starting point. Our view is that the leap from quantum mechanics in the laboratory frame to the universe as a whole is key to understanding its origins. The problem of the external observer and the conflict of principle between unitarity, causality, and diffeomorphism invariance are explored in bubble nucleation theories. We argue causality is fundamentally incompatible with the assumption that the universe has no external observer. A unique closed-form cosmological wavefunction describing the probability amplitude of the initial state of bubble/antibubble nucleation events is derived. The wavefunction vanishes at the initial singular state, yielding numerous observable consequences. We propose a CMB double-slit experiment to test the theory.
  
+## Key Result: Quantum Cosmology from the Top Down
+
+$$ \begin{enumerate}
+    \item[I.] There is no external observer who prepared the initial state of the cosmos.
+    \item[II.] The \emph{form} of the laws of physics does not change with scale.
+    \item[III.] The universal wavefunction $\Psi$ exists and contains all physical information of the universe.
+    \item[IV.] $\Psi$ obeys the timeless Schr\"{o}dinger equation,
+        \begin{equation}
+            \hat{H}\Psi = 0
+        \end{equation}
+    on all scales. Nature has no fundamental scale: $\Psi$ is scale-invariant. Only dimensionless quantities are fundamental.
+    \item[V.] The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states $L^2[\mathbb{C}P^1(2,2,2)] \otimes \mathbb{C}^2$ where \mathbb{C}P^1(2,2,2) is the **surface of the initial data** and assigns a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
+\end{enumerate} 
+$$
+
+### Solution
+
+$$ \hat{H} =  -\partial_a^2I + \frac{\phi}{\pi a^2}\big( \frac{\phi}{\pi}I + \sigma_3\big), \ \ \  \Psi(a, \phi) = \begin{pmatrix} (1 + e^{-i \phi})a^{-\phi/\pi} \\ (1 + e^{i \phi})a^{\phi/\pi} \end{pmatrix} 
+$$
