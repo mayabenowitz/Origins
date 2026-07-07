@@ -37,18 +37,22 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
 
 ### Solution
 
-$$\hat{H}
+```math
+\hat{H}
 =
 -\partial_a^2 I
 +
 \frac{\phi}{\pi a^2}
 \left(
 \frac{\phi}{\pi}I + \sigma_3
-\right)$$
+\right)
+```
 
-$$\Psi(a,\phi)
+```math
+\Psi(a,\phi)
 =
 \begin{pmatrix}
 (1 + e^{-i\phi})a^{-\phi/\pi} \\
 (1 + e^{i\phi})a^{\phi/\pi}
-\end{pmatrix}$$
+\end{pmatrix}
+```
