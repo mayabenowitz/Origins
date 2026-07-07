@@ -26,9 +26,9 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
 3. The universal wavefunction $\Psi$ exists and contains all physical information of the universe.
 4. $\Psi$ obeys the timeless Schrödinger equation,
 
-   $$
-   \hat{H}\Psi = 0
-   $$
+   
+   $\hat{H}\Psi = 0$
+   
 
    on all scales. Nature has no fundamental scale: $\Psi$ is scale-invariant. Only dimensionless quantities are fundamental.
 5. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states
@@ -37,22 +37,18 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
 
 ### Solution
 
-$$
-\hat{H}
+$$\hat{H}
 =
 -\partial_a^2 I
 +
 \frac{\phi}{\pi a^2}
 \left(
 \frac{\phi}{\pi}I + \sigma_3
-\right)
-$$
+\right)$$
 
-$$
-\Psi(a,\phi)
+$$\Psi(a,\phi)
 =
 \begin{pmatrix}
 (1 + e^{-i\phi})a^{-\phi/\pi} \\
 (1 + e^{i\phi})a^{\phi/\pi}
-\end{pmatrix}
-$$
+\end{pmatrix}$$
