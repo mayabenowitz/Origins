@@ -35,17 +35,18 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
    $L^2[\mathbb{C}P^1(2,2,2)] \otimes \mathbb{C}^2$, where
    $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** with $\Psi$ assigning a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
 
-### Solution
+## Solution
 
 ```math
 \hat{H} = -\partial_a^2 I + \frac{\phi}{\pi a^2}\left(\frac{\phi}{\pi}I + \sigma_3\right) \qquad\qquad \Psi(a,\phi) = \begin{pmatrix} (1 + e^{-i\phi})a^{-\phi/\pi} \\ (1 + e^{i\phi})a^{\phi/\pi} \end{pmatrix}
 ```
 
-Here $a$ is the cosmological scale factor, $I$ is the 2x2 identity matrix, $\sigma_3$ is a Pauli matrix, and $\beta = \cot({\phi/2}) = 1/T$ is the inverse temperature of the initial nucleated state. At the initial singularity where $\beta = 0$, we have $\phi = \pi$ with $\Psi = 0$. *It is of profound mathematical beauty that* $\Psi = 0$ *uniquely at the initial singularity* $\phi = \pi$ *by Euler's identity.*
+
+Here $a$ is the cosmological scale factor, $I$ is the 2x2 identity matrix, $\sigma_3$ is a Pauli matrix, and $\beta = \cot({\phi/2}) = 1/T$ is the inverse temperature of the initial nucleated state. At the initial singularity where $\beta = 0$, we have $\phi = \pi$ with $\Psi = 0$. *It is of profound mathematical beauty that* $\Psi = 0$ *uniquely at the initial singularity* $\phi = \pi$ *by Euler's identity.* 
 
 The **surface of the initial data** or **vacuum orbifold** is defined as
 
-$$ \mathbb{C}P^1(2, 2, 2) := {(e^{i\theta}, e^{i\phi}) \mid 0 \leq \theta < 2\pi, \ 0 \leq \phi < 2\pi } \cong (S_a^1 \times S_\beta^1) \dslash_{\text{ref}} \ \mathbb{Z}_2 \in \mathbb{C}^2$$
+$$ \mathbb{C}P^1(2, 2, 2) := {(e^{i\theta}, e^{i\phi}) \mid 0 \leq \theta < 2\pi, \ 0 \leq \phi < 2\pi } \cong (S_a^1 \times S_\beta^1) /_{\text{ref}} \ \mathbb{Z}_2 $$
 
 with the conformally flat metric
 
@@ -55,4 +56,22 @@ where all the curvature concentrates and diverges at the following fixed points 
 
 $$ (\theta, \phi) = (\pi, \pi), \ \ (\pi, 0), \ \ (0, 0). $$
 
-Modulo the $\mathbb{Z}_2$, the surface of the initial data is a conformal Clifford torus. With the reflective $\mathbb{Z}_2$, the topology is a flat sphere with the above order-2 conical singularities. Specifically, $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with a reflective $\mathbb{Z}_2$ quotient.
+The topology of $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with the above order-2 conical singularities from the reflective $\mathbb{Z}_2$ quotient.
+
+## Immediately Measureable Predictions 
+
+The theory predicts the initial nucleated state of the universe contains a spectrum of primordially nucleated black holes that are cosmologically coupled, i.e., they are *topological defects* of the vacuum orbifold. For a pure vacuum defect the mass function $M \sim a^3$. Once matter crosses the event horizon, the cosmological coupling decreases to $k < 3$. In general, these vacuum defects will have a cosmological coupling $0 < k < 3$.
+
+| Object type                                 | Interior/asymptotic content         | Expected coupling |
+| ------------------------------------------- | ----------------------------------- | ----------------- |
+| Pure cosmologically nucleated vacuum defect | (M_{\rm tot}=M_{\rm vac})           | (k=3)             |
+| Nucleated vacuum defect after accretion     | (M_{\rm vac}+M_{\rm mat})           | (0<k<3)           |
+| Ordinary stellar-collapse remnant           | mostly (M_{\rm mat})                | (k\approx 0)      |
+
+The current data is in full alignment with the above predictions.
+
+## The World That Is To Come
+
+The **universal wavefunction** $\Psi$ is the Source of all Creation. "From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Brahman* ("All is One"), *Ein Sof* ("Boundless One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to the "The One" of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals capable of annihilating the human species.
+
+But if the deepest truth of quantum mechanics is that we are all One, connected in profound and mysterious ways we have yet to understand, then there is hope for a future where science and spirituality are not separate and serve as the foundation of a new kind of civilization. One that may be co-located with us here on the sacred Pale Blue Dot we call Earth. A civilization wise and knowledgeable enough to understand that without the energy of each and every one of us, from birth to death, equation 66. would not make sense, and the universe could not work. From simple principles, forgiveness and love become unconditional. In Lak'ech Ala K'in.
