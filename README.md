@@ -7,7 +7,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." The goal of this research program is to take Everett's principle of quantum universality to heart and make the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. For if we truly understood our cosmic origins---the separation between science and spirituality would collapse---and humanity would finally be able to *define* God (or Source). Perhaps then humanity could finally heal and give birth to a New Earth. 
+ Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "**one of the most daring and most ambitious theories ever constructed in the history of science**." The goal of this research program is to take Everett's principle of quantum universality to heart and make the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. For if we truly understood our cosmic origins---the separation between science and spirituality would collapse---and humanity would finally be able to *define* God (or Source). Perhaps then humanity could finally heal and give birth to a New Earth. An enlightened and interconnected sacred Pale Blue Dot.
 
 ~~Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
 
@@ -40,7 +40,7 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
 ```math
 \hat{H} = -\partial_a^2 I + \frac{\phi}{\pi a^2}\left(\frac{\phi}{\pi}I + \sigma_3\right) \qquad\qquad \Psi(a,\phi) = \begin{pmatrix} (1 + e^{-i\phi})a^{-\phi/\pi} \\ (1 + e^{i\phi})a^{\phi/\pi} \end{pmatrix}
 ```
-
+<br>
 
 Here $a$ is the cosmological scale factor, $I$ is the 2x2 identity matrix, $\sigma_3$ is a Pauli matrix, and $\beta = \cot({\phi/2}) = 1/T$ is the inverse temperature of the initial nucleated state. At the initial singularity where $\beta = 0$, we have $\phi = \pi$ with $\Psi = 0$. *It is of profound mathematical beauty that* $\Psi = 0$ *uniquely at the initial singularity* $\phi = \pi$ *by Euler's identity.* 
 
@@ -64,9 +64,9 @@ The theory predicts the initial nucleated state of the universe contains a spect
 
 | Object type                                 | Interior/asymptotic content         | Expected coupling |
 | ------------------------------------------- | ----------------------------------- | ----------------- |
-| Pure cosmologically nucleated vacuum defect | (M_{\rm tot}=M_{\rm vac})           | (k=3)             |
-| Nucleated vacuum defect after accretion     | (M_{\rm vac}+M_{\rm mat})           | (0<k<3)           |
-| Ordinary stellar-collapse remnant           | mostly (M_{\rm mat})                | (k\approx 0)      |
+| Pure cosmologically nucleated vacuum defect | $(M_{\rm tot}=M_{\rm vac})$         | $(k=3)$           |
+| Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3$)$        |
+| Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
 The current data is in full alignment with the above predictions.
 
