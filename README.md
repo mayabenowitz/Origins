@@ -40,9 +40,10 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
 ```math
 \hat{H} = -\partial_a^2 I + \frac{\phi}{\pi a^2}\left(\frac{\phi}{\pi}I + \sigma_3\right) \qquad\qquad \Psi(a,\phi) = \begin{pmatrix} (1 + e^{-i\phi})a^{-\phi/\pi} \\ (1 + e^{i\phi})a^{\phi/\pi} \end{pmatrix}
 ```
+
 Here $a$ is the cosmological scale factor, $I$ is the 2x2 identity matrix, $\sigma_3$ is a Pauli matrix, and $\beta = \cot({\phi/2}) = 1/T$ is the inverse temperature of the initial nucleated state. At the initial singularity where $\beta = 0$, we have $\phi = \pi$ with $\Psi = 0$. The **surface of the initial data** or **vacuum orbifold** is defined as
 
-$$ \mathbb{C}P^1(2, 2, 2) := \{(e^{i\theta}, e^{i\phi}) \mid 0 \leq \theta < 2\pi, \ 0 \leq \phi < 2\pi \} \cong (S_a^1 \times S_\beta^1) \dslash_{\text{ref}} \ \mathbb{Z}_2 \in \mathbb{C}^2$$
+$$ \mathbb{C}P^1(2, 2, 2) := {(e^{i\theta}, e^{i\phi}) \mid 0 \leq \theta < 2\pi, \ 0 \leq \phi < 2\pi } \cong (S_a^1 \times S_\beta^1) \dslash_{\text{ref}} \ \mathbb{Z}_2 \in \mathbb{C}^2$$
 
 with the conformally flat metric
 
