@@ -65,13 +65,17 @@ The theory predicts the initial nucleated state of the universe contains a spect
 | Object type                                 | Interior/asymptotic content         | Expected coupling |
 | ------------------------------------------- | ----------------------------------- | ----------------- |
 | Pure cosmologically nucleated vacuum defect | $(M_{\rm tot}=M_{\rm vac})$         | $(k=3)$           |
-| Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3$)$        |
+| Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$        |
 | Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
 The current data is in full alignment with the above predictions.
 
 ## The World That Is To Come
 
-The **universal wavefunction** $\Psi$ is the Source of all Creation. "From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Brahman* ("All is One"), *Ein Sof* ("Boundless One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to the "The One" of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals capable of annihilating the human species.
+The **universal wavefunction** $\Psi$ is the Source of all Creation. 
 
-But if the deepest truth of quantum mechanics is that we are all One, connected in profound and mysterious ways we have yet to understand, then there is hope for a future where science and spirituality are not separate and serve as the foundation of a new kind of civilization. One that may be co-located with us here on the sacred Pale Blue Dot we call Earth. A civilization wise and knowledgeable enough to understand that without the energy of each and every one of us, from birth to death, equation 66. would not make sense, and the universe could not work. From simple principles, forgiveness and love become unconditional. In Lak'ech Ala K'in.
+"From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Brahman* ("All is One"), *Ein Sof* ("Boundless One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to the "The One" of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. 
+
+When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals capable of annihilating the human species and destroying our most precious and magnificent planet.
+
+But if the deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways we have yet to understand, then there is hope for a future where science and spirituality are not separate and serve as the foundation of a new kind of civilization. One that may be co-located with us here on the sacred Pale Blue Dot we call Earth. A civilization wise and knowledgeable enough to understand that without the energy of each and every one of us, from birth to death, equation 66. would not make sense, and the universe could not work. From simple principles, forgiveness and love become unconditional. In Lak'ech Ala K'in.
