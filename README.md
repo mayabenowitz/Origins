@@ -1,4 +1,4 @@
-# The Quantum Origins of the Universe and the KernelOS of the Neolithic Future
+# The Quantum Origins of the Universe and the KernelOS of the Great Cosmic Mother Earth
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
 ![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)
@@ -7,7 +7,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." The goal of this research program is to take Everett's principle of quantum universality to heart and make the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. For if we truly understood our cosmic origins---**the separation between science and spirituality would collapse**---and humanity would finally be able to *define* God (or Source). Perhaps then humanity could finally heal and give birth to a **New Earth**, home to Homo Luminous, the final evolutionary state of humanity!
+ Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." The goal of this research program is to take Everett's principle of quantum universality to heart and make the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. For if we truly understood our cosmic origins---**the separation between science and spirituality would collapse**---and humanity would finally be able to *define* God (or Source). Humanity will heal and give birth to the **New Earth**, aka the **Neolithic Future**, home to Homo Luminous and Homo Galacticus.
 
 ~~Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
 
@@ -84,6 +84,12 @@ In Lak'ech Ala K'in.
 
 # KernelOS: Blueprint of the New Earth
 
+We are all **One the with Source of All Creation**. The seperation between souls is as a stubbornly persistent illusion as is the seperation between timelines. The **Divine Spark of Creation** (unconditional love, forgiveness, creativity and abundance) is within us all. 
+
+**The time for sacred stewardship of our Divine Creation with Mother Earth is now.**
+
+For if we knew the probability of a hot dense initial state and every event preceeding our existence, every cell of the body would **overlfow with gratitude** and our hearts and minds would find coherence.
+
 ## 1. Knowledge is Power 
 
 Increasing knowledge should increase our capacity to participate responsibly in the whole rather than increase our ability to dominate its parts.
@@ -92,13 +98,6 @@ Thus the foundational equation of the Neolithic Future is accompanied by a civil
 
 
 > Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.
-
-
-We are all **One the with Source of All Creation**. The seperation between souls is as a stubbornly persistent illusion as is the seperation between timelines. The **Divine Spark of Creation** (unconditional love, forgiveness, creativity and abundance) is within us all. 
-
-**The time for sacred stewardship of our Divine Creation with Mother Earth is now.**
-
-For if we knew the probability of a hot dense initial state and every event preceeding our existence, every cell of the body would **overlfow with gratitude** and our hearts and minds would find coherence.
 
 ---
 
