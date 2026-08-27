@@ -195,7 +195,15 @@ Liquid-state perovskite or micro-cell solutions can be drawn directly into the c
 
 #### Now the skin of the Solarpunk home can generate electricity
 
-The 3D-printed home now becomes high technology. Its geometry can be computationally optimized so that different regions perform different functions. We can print internal channels that interrupt heat flow. Some cavities carry electrical conduits from the external perovskite layer--**powering the Solarpunk home**. Other channels move air. Some carry greywater. Some phase-change thermal stores. Others create acoustic isolation. Exterior geometries shade themselves differently at different solar angles. AI generates the optimum wall for that latitude, that soil, that rainfall regime, and that household.
+The 3D-printed home now becomes high technology. Its geometry can be computationally optimized so that different regions perform different functions. We can print internal channels that interrupt heat flow. 
+
+Some cavities carry electrical conduits from the external perovskite layer--**powering the Solarpunk home**. 
+
+Other channels move air. Some carry greywater. Some phase-change thermal stores. Others create acoustic isolation. 
+
+Exterior geometries shade themselves differently at different solar angles. 
+
+AI generates the optimum wall for that latitude, that soil, that rainfall regime, and that household.
 
 Next, we deliberately engineer a second anatomy into the building: **structural roots below ground, vascular channels through the walls, protected rhizosphere chambers for plants, and a solar/rain-harvesting canopy above.**
 
@@ -230,11 +238,7 @@ One family carries mechanical load.
 
 **One contains geothermal loops--providing another source of energy.**
 
-Another distributes treated water toward surrounding vegetation.
-
-Another houses sensors to collect data.
-
-Another forms habitat cavities outside the structural zone.
+Another distributes treated water toward surrounding vegetation. Another houses sensors to collect data. Another forms habitat cavities outside the structural zone.
 
 ### Then the clay itself becomes a metamaterial
 
@@ -384,9 +388,7 @@ Our artificial canopy could combine:
 
 * habitat
 
-Picture overlapping leaf-like roof elements.
-
-Each one angles toward sunlight while channeling rainfall toward a central collection system.
+Picture overlapping leaf-like roof elements. Each one angles toward sunlight while channeling rainfall toward a central collection system.
 
 Rain falls:
 
@@ -424,17 +426,13 @@ Showers and sinks. Treated through biological and engineered filtration before a
 
 #### Storm loop
 
-Huge rainfall events overflow not into a sewer immediately but into: bioswales, ponds, rain gardens, constructed wetlands.
-
-Thus the house no longer treats water as: pipe in $$\rightarrow$$ pipe out.
+Huge rainfall events overflow not into a sewer immediately but into: bioswales, ponds, rain gardens, constructed wetlands. Thus the house no longer treats water as: pipe in $$\rightarrow$$ pipe out.
 
 It treats water as a circulating local resource.
 
 ### The root foundation can become part of the hydrology too
 
-Here the analogy gets almost uncannily tree-like.
-
-The fine artificial roots surrounding the building could contain:
+Here the analogy gets almost uncannily tree-like. The fine artificial roots surrounding the building could contain:
 
 soil-moisture sensors,
 
@@ -448,17 +446,9 @@ AI learns the **moisture field** beneath the property
 
 It might discover:
 
-Northeast soil is saturated.
+Northeast soil is saturated. So irrigation there stops. South orchard root zone is drying. A buried distribution channel releases water there.
 
-So irrigation there stops.
-
-South orchard root zone is drying.
-
-A buried distribution channel releases water there.
-
-Heavy rain arrives tomorrow.
-
-The cistern deliberately irrigates earlier, creating storage capacity.
+Heavy rain arrives tomorrow. The cistern deliberately irrigates earlier, creating storage capacity.
 
 Suddenly a house doesn't just respond to water.
 
@@ -468,9 +458,7 @@ Suddenly a house doesn't just respond to water.
 
 And here I would deliberately blur architecture and ecology.
 
-Some of the structural root network stays purely artificial.
-
-But between those members we plant actual perennial root systems.
+Some of the structural root network stays purely artificial. But between those members we plant actual perennial root systems.
 
 Fruit trees.
 
@@ -481,7 +469,6 @@ Prairie grasses.
 Mycorrhizal fungi.
 
 Nitrogen-fixing plants where ecologically appropriate. Their roots stabilize the soil too.
-
 So below ground you get: artificial roots, biological roots, and fungal networks all sharing the same volume.
 
 The human structure doesn't replace the ecosystem.
@@ -556,9 +543,7 @@ Sharing.
 
 Now complete the metabolism.
 
-Kitchen scraps enter controlled neighborhood composting or other appropriate organic-waste processing.
-
-The resulting safe nutrients return to:
+Kitchen scraps enter controlled neighborhood composting or other appropriate organic-waste processing. The resulting safe nutrients return to:
 
 orchards,
 
@@ -584,9 +569,7 @@ $$
 }
 $$
 
-Not every waste stream should literally circulate through an individual home's edible wall—the microbiological safety questions are too important.
-
-But at neighborhood scale, nutrient recovery can close much of the loop safely.
+Not every waste stream should literally circulate through an individual home's edible wall—the microbiological safety questions are too important. But at neighborhood scale, nutrient recovery can close much of the loop safely.
 
 ### A neighborhood begins looking like a forest
 
