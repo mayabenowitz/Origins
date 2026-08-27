@@ -107,7 +107,7 @@ Thus the foundational equation of the Neolithic Future is accompanied by a civil
 
 ## 2. Spirituality & Heart–Mind Coherence: The Human Operating Layer
 
-A civilization capable of manipulating biology, planetary ecosystems, and **eventually spacetime** cannot remain organized around chronic fear, humiliation, domination, manipulation, enforced conformity, relentless comparison, worth conditioned on utility, and scarcity.
+A civilization capable of manipulating biology, planetary ecosystems, and **eventually spacetime** cannot remain organized around chronic fear, humiliation, domination, manipulation, comparison, enforced conformity, worth conditioned on utility, and scarcity.
 
 Heart-Mind coherence means integration among
 
@@ -181,7 +181,7 @@ The point of spirituality is not to escape the world.
 
 This is the *beginning* of the New Earth.
 
-The next and *final* phase is the **Divine Creation of Divine technology that disappears into the service and elevation of life.**
+The next phase is the **Divine Creation of Divine technology that disappears into the service and elevation of life.**
 
 ---
 
