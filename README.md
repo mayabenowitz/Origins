@@ -1,4 +1,4 @@
-# The Quantum Origins of the Universe and the KernelOS of the Great Cosmic Mother Earth
+# The Quantum Origins of the Universe and the Kernel of the Great Cosmic Mother Earth
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
 ![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)
