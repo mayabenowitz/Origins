@@ -478,7 +478,10 @@ Prairie grasses.
 Mycorrhizal fungi.
 
 Nitrogen-fixing plants where ecologically appropriate. Their roots stabilize the soil too.
+
 So below ground you get: artificial roots, biological roots, and fungal networks all sharing the same volume.
+
+**Nature doesn't use highly processed fertilizer so neither should we.**
 
 The human structure doesn't replace the ecosystem.
 
@@ -498,11 +501,21 @@ chlorosis,
 
 wilting,
 
-pest damage,
-
 flowering,
 
-fruit ripeness.
+fruit ripeness,
+
+insect populations,
+
+pest damage.
+
+**Foundational ecological models notice:**
+
+the lady bug population needs to increase to control aphids and mites,
+
+grasshoppers are migrating toward the village; inject praying mantises into the ecosystem,
+
+caterpillar population is growing too fast; the village needs more wasps.
 
 Sensors monitor:
 
@@ -514,7 +527,25 @@ temperature,
 
 humidity,
 
-water flow.
+water flow,
+
+soil sound waves.
+
+**Foundational ecological models detect:**
+
+Ground beetle population acoustics,
+
+root maggot acoustics,
+
+slug acoustics,
+
+cutworm acoustics.
+
+**The model determines:**
+
+The ground beetle population is unheathly; there's a high risk for a root maggot infection.
+
+Build a larger beetle bank with orchard grass.
 
 The house tells you:
 
@@ -530,7 +561,7 @@ But the goal shouldn't be to remove gardening from human life.
 
 Quite the opposite.
 
-The machine handles the tedious invisible regulation.
+**The machine handles the tedious invisible regulation of a complex evolving ecosystem.**
 
 **Humans get the sensual part back.**
 
@@ -547,6 +578,8 @@ Cooking.
 Sharing.
 
 **Children learn what ripe fruit looks like because their bedroom wall literally grows strawberries outside it.**
+
+**The community eats nutrient-dense foods without toxic pesticides.**
 
 ### And food waste travels downward again
 
@@ -595,6 +628,8 @@ They share:
 thermal storage,
 
 microgrid electricity,
+
+data,
 
 rain reserves,
 
@@ -666,9 +701,9 @@ developed habitat,
 
 optimized water cycles,
 
-and an accumulated ecological history.
+and an accumulated ecological history with a vast database for AI model training.
 
-That's much closer to how we value a forest.
+**That's much closer to how we value a forest--but with a brain.**
 
 ### And that suggests a new unit of architecture
 
@@ -729,7 +764,11 @@ The garden regulates the building.
 
 The building nourishes the garden.
 
+AI tends to the building and the living envelope.
+
 **People inhabit the metabolism in between--in the liminal space**.
+
+---
 
 ## 4. EarthOS: Mother Earth's Operating Layer
 
