@@ -417,7 +417,7 @@ The stored water now has potential energy simply because it is elevated.
 
 Gravity sends it through the xylem network.
 
-### Housing, energy, water, and food becomes one cellular ogranism
+## Housing, energy, water, and food becomes one cellular ogranism
 
 There could actually be several distinct water circulations.
 
