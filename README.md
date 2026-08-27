@@ -202,7 +202,13 @@ The 3D-printed home now becomes high technology. Its geometry can be computation
 
 Some cavities carry electrical conduits from the external perovskite layer--**powering the Solarpunk home**. 
 
-Other channels move air. Some carry greywater. Some phase-change thermal stores. Others create acoustic isolation. 
+Other channels move air. 
+
+Some carry greywater. 
+
+Some phase-change thermal stores. 
+
+Others create acoustic isolation. 
 
 Exterior geometries shade themselves differently at different solar angles. 
 
