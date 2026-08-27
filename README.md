@@ -703,7 +703,7 @@ optimized water cycles,
 
 and an accumulated ecological history with a vast database for AI model training.
 
-**That's much closer to how we value a forest--but with a brain.**
+**That's much closer to how we value a forest--but with a central nervous system and a brain.**
 
 ### And that suggests a new unit of architecture
 
@@ -766,13 +766,15 @@ The building nourishes the garden.
 
 AI tends to the building and the living envelope.
 
-**People inhabit the metabolism in between--in the liminal space**.
+The building collects massive amounts of data feeding the AI.
+
+**People inhabit the metabolism in between--in the liminal spaces**.
 
 ---
 
-## 4. EarthOS: Mother Earth's Operating Layer
+## 4. EarthOS: Mother Earth's Open-Source Operating Layer
 
-A Solarpunk house in Minnesota is physically unlike one in Arizona, Nairobi, or Kerala even though all four descend from the same open-source design grammar. This is **ecological computation**:
+A Solarpunk house in Minnesota is physically unlike one in Arizona, Nairobi, or Interlaken even though all four descend from the same open-source design grammar. This is **ecological computation**:
 
 $$
 \boxed{
@@ -784,9 +786,36 @@ $$
 +
 \text{life}
 \rightarrow
-\text{living technology}
+\text{living technology.}
 }
 $$
+
+The infrastructure of [EarthOS](https://www.cyclops.ai/earth-os) has already begun. The next pieces of the puzzle are Foundational Earth Models: [On the foundations of Earth foundation models](https://www.nature.com/articles/s43247-025-03127-x), [Towards ecologically meaningful foundation models](https://ecoevorxiv.org/repository/view/12013/).
+
+We do not need more theory trying to model the complexity of the ecosystem.
+
+*We need more data.*
+
+The Solarpunk village is a **living organism that continuously collects data and learns about its environment.**
+
+Raw sensor and vision data from each village produces an enormous data stream.
+
+The data can be used to train custom local models.
+
+LLMs/LVMs can also interpret the sensor data directly and work with humans to improve the health of the village.
+
+Humans take action.
+
+Solutions are found.
+
+The **full interaction cycle** becomes data for an open-source Earth Foundation Model.
+
+With enough Solarpunk villages, Mother Earth gains a new awareness of herself.
+
+**That is profound.**
+
+
+### Education, Ecology, Research, Development, and Economy (EERDE)
 
 ---
 
