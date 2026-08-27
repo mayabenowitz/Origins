@@ -84,7 +84,7 @@ But if the deepest truth of quantum mechanics is that we are all **One**, connec
 
 In Lak'ech Ala K'in.
 
-# KernelOS: Blueprint of the New Earth
+# Blueprint of the New Earth
 
 We are all **One the with Source of All Creation**. The seperation between souls is as a stubbornly persistent illusion as is the seperation between timelines. The **Divine Spark of Creation** (unconditional love, forgiveness, creativity and abundance) is within us all. 
 
@@ -181,11 +181,11 @@ The point of spirituality is not to escape the world.
 
 This is the *beginning* of the New Earth.
 
+The next and *final* phase is the **Divine Creation of Divine technology that disappears into the service and elevation of life.**
+
 ---
 
 ## 3. Metabolic Habitat Engineering
-
-**Divine technology disappears into the service and elevation of life.**
 
 Civilization should build homes primarily from abundant mineral matter, sunlight, biological residues, computation, and locally recoverable resources—not from destroying complex ecosystems merely because trees happen to arrive preassembled into structural fibers.
 
