@@ -90,11 +90,11 @@ Increasing knowledge should increase our capacity to participate responsibly in 
 
 Thus the foundational equation of the Neolithic Future is accompanied by a civilizational boundary condition:
 
-```math
+$$
 \boxed{
 \text{Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.}
 }
-```
+$$
 
 We are all **One the with Source of All Creation**. The seperation between souls is as a stubbornly persistent illusion as is the seperation between timelines. The **Divine Spark of Creation** (unconditional love, forgiveness, creativity and abundance) is within us all. 
 
@@ -150,7 +150,8 @@ C_{\rm cognitive}
 -
 C_{\rm survival}
 ```
-The New Earth therefore attacks unnecessary sources of \(C_{\rm survival}\):
+
+The New Earth therefore attacks unnecessary sources of $$\(C_{\rm survival}\)$$:
 
 - housing precarity;
 - food insecurity;
