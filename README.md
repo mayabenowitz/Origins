@@ -90,11 +90,9 @@ Increasing knowledge should increase our capacity to participate responsibly in 
 
 Thus the foundational equation of the Neolithic Future is accompanied by a civilizational boundary condition:
 
-$$
-\boxed{
-\text{Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.}
-}
-$$
+
+> Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.
+
 
 We are all **One the with Source of All Creation**. The seperation between souls is as a stubbornly persistent illusion as is the seperation between timelines. The **Divine Spark of Creation** (unconditional love, forgiveness, creativity and abundance) is within us all. 
 
@@ -372,23 +370,19 @@ A tree doesn't have a flat waterproof lid. It has a canopy.
 
 Our artificial canopy could combine:
 
-$$
-\boxed{
-\text{solar perovskite quantum dots}
-+
-\text{microsystems-enabled photovoltaics (MEPV)}
-+
-\text{wind capture}
-+
-\text{rain capture}
-+
-\text{shade}
-+
-\text{fruit}
-+
-\text{habitat}
-}
-$$
+* solar perovskite quantum dots
+
+* microsystems-enabled photovoltaics (MEPV)
+
+* wind capture
+
+* rain capture
+
+* shade
+
+* fruit
+
+* habitat
 
 Picture overlapping leaf-like roof elements.
 
@@ -664,29 +658,9 @@ A house literally gets greener and more ecologically complex as it ages.
 
 And eventually our definition of a valuable building flips.
 
-Today:
+Today: new building > old building because everything deteriorates.
 
-$$
-\boxed{
-\text{new building}
->
-\text{old building}
-}
-$$
-
-because everything deteriorates.
-
-In living architecture:
-
-$$
-\boxed{
-\text{mature building}
->
-\text{new building}
-}
-$$
-
-because thirty years have given it:
+In living architecture: mature building > new building because thirty years have given it:
 
 deeper soil,
 
@@ -712,21 +686,17 @@ The square foot tells us how much enclosed commodity space exists.
 
 For New Earth we'd want additional metrics:
 
-$$
-\boxed{
-\text{F=food production potential,}
-\
-\text{W=annual water retained,}
-\
-\text{B=biodiversity supported,}
-\
-\text{E=net energy balance,}
-\
-\text{C=carbon embodied/sequestered,}
-\
-\text{H=human comfort and health.}
-}
-$$​
+* F=food production potential,
+
+* W=annual water retained,
+
+* B=biodiversity supported,
+
+* E=net energy balance,
+
+* C=carbon embodied/sequestered,
+
+* H=human comfort and health​
 
 And perhaps a building's performance becomes something like
 
@@ -744,7 +714,8 @@ Then computational architecture stops asking:
 
 and begins asking:
 
-    **What configuration of matter produces the greatest flourishing of this human family and the ecosystem around it for the next three centuries?**
+    What configuration of matter produces the greatest flourishing of this human family 
+    and the ecosystem around it for the next three centuries?
 
 That is a very different optimization problem.
 
