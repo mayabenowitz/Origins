@@ -384,7 +384,7 @@ So architecture stops forcing plants into its geometry.
 
 Architecture is generated from the photosynthetic needs of plants.
 
-**Now the Solarpunk home is no longer just a metamaterial--it's a living metamaterial with AI as its nervous system.**
+**Now the Solarpunk home is no longer just a metamaterial--it's a living metamaterial**
 
 ### The canopy becomes the roof
 
@@ -570,7 +570,7 @@ But the goal shouldn't be to remove gardening from human life.
 
 Quite the opposite.
 
-**The machine handles the tedious invisible regulation of a complex evolving ecosystem.**
+**The Solarpunk home has become a living metamaterial with AI as its nervous system, handling the tedious invisible regulation of a complex evolving ecosystem.**
 
 **Humans get the sensual part back.**
 
