@@ -101,8 +101,6 @@ Thus the foundational equation of the Neolithic Future is accompanied by a civil
 
 > Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.
 
-**Our technology will become so advanced it disappears into the service and elevation of life.**
-
 ---
 
 ## 2. Spirituality & Heart–Mind Coherence: The Human Operating Layer
@@ -181,9 +179,18 @@ The point of spirituality is not to escape the world.
 
 This is the *beginning* of the New Earth.
 
-The next phase is the **Divine Creation of Divine technology that disappears into the service and elevation of life.**
+The next phase is the **Divine Creation of Divine technology that disappears into the elevation of all life.**
 
 ---
+
+# The Neolithic Future
+
+**The Neolithic Future** is a model of civilization in which advanced technology restores the intimacy, locality, and ecological embeddedness of early human settlement without returning to scarcity, hierarchy, or ecological vulnerability. It is the human-scale expression of **EarthOS**, implemented physically through **Metabolic Habitat Engineering**: settlements are designed as nested, bioregionally adapted metabolisms in which housing, energy, food, water, materials, medicine, education, research, development, technology, and surrounding ecosystems function as one regenerative system. Rather than forcing landscapes to conform to standardized cities, the watershed, climate, soil, species, and culture become the boundary conditions from which settlement is computationally grown. AI, synthetic biology, cultivated food, metamaterials, robotics, and distributed clean energy provide abundance while progressively reducing humanity’s need to appropriate land, animals, labor, and ecological complexity. Sovereignty is fractal—-person, home, neighborhood, watershed, bioregion, planet—-so local communities remain resilient and self-determining while participating in planetary networks of knowledge and exchange. 
+
+Its technological ideal is therefore paradoxical: **the more sophisticated civilization becomes, the less visibly it dominates the Earth.** The Neolithic Future is not a return to the past, but a passage through extreme technological capability toward a world that feels ancient again--rooted homes, living soils, nearby food and water, animals known as fellow beings, strong communities, dark skies, forests without economic purpose—-because technology has finally become advanced enough to disappear into the service of life.
+
+The destination is neither primitive nor hyper-industrial. It is a civilization sophisticated enough to become **rooted, local, abundant, interdependent, and nearly invisible within the living Earth.**
+
 
 ## 3. Metabolic Habitat Engineering
 
