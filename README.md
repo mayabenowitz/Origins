@@ -830,7 +830,7 @@ Everything begins with the home and village. The house develops something analog
 $$
 \begin{aligned}
 \text{roots} &\rightarrow \text{foundation, geothermal exchange, water} \\
-\text{skn} &\rightarrow \text{solar harvesting, thermal regulation, habitat, food} \\
+\text{skin} &\rightarrow \text{solar harvesting, thermal regulation, habitat, food} \\
 \text{vasculature} &\rightarrow \text{water, air, and power circulation} \\
 \text{gut} &\rightarrow \text{composting and material recovery} \\
 \text{nervous system} &\rightarrow \text{sensor stack} \\
@@ -846,7 +846,7 @@ Not a building children disappear into for eight hours.
 
 The **entire habitat becomes pedagogical**.
 
-### Education becomes participation in reality
+## 4.1 Education becomes participation in reality
 
 A child growing up in an EarthOS village doesn't merely learn that water cycles exist.
 
@@ -864,9 +864,9 @@ Looks through microscopes at soil.
 
 Learns why contamination matters.
 
-Learns genetics.
-
 Learns ecology.
+
+Learns genetics.
 
 Learns when not to intervene.
 
@@ -891,6 +891,16 @@ thermodynamics.
 **Mathematics becomes a language for understanding the world immediately around you.**
 
 A teenager might calculate the thermal conductivity of her wall in the morning and harvest strawberries growing from it that afternoon.
+
+That is the **Neolithic Future classroom**:
+
+$$
+\boxed{
+    \text{learning by participation in the metabolism that keeps you alive.}
+}
+$$
+	​
+## 4.2 Education becomes a sacred rite-of-passage
 
 ---
 
