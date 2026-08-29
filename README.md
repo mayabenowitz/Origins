@@ -187,9 +187,9 @@ The next phase is the **Divine Creation of Divine technology that disappears int
 
 **The Neolithic Future** is a model of civilization in which advanced technology restores the intimacy, locality, and ecological embeddedness of early human settlement without returning to scarcity, hierarchy, or ecological vulnerability. It is the human-scale expression of **EarthOS**, implemented physically through **Metabolic Habitat Engineering**: settlements are designed as nested, bioregionally adapted metabolisms in which housing, energy, food, water, materials, medicine, education, research, development, technology, and surrounding ecosystems function as one regenerative system. Rather than forcing landscapes to conform to standardized cities, the watershed, climate, soil, species, and culture become the boundary conditions from which settlement is computationally grown. AI, synthetic biology, cultivated food, metamaterials, robotics, and distributed clean energy provide abundance while progressively reducing humanity’s need to appropriate land, animals, labor, and ecological complexity. 
 
-Sovereignty is fractal—-person, home, neighborhood, watershed, bioregion, planet—-so local communities remain resilient and self-determining while participating in planetary networks of knowledge and exchange. 
+Sovereignty is fractal—person, home, neighborhood, watershed, bioregion, planet—so local communities remain resilient and self-determining while participating in planetary networks of knowledge and exchange. 
 
-Its technological ideal is therefore paradoxical: **the more sophisticated civilization becomes, the less visibly it dominates the Earth.** The Neolithic Future is not a return to the past, but a passage through extreme technological capability toward a world that feels ancient again--rooted homes, living soils, nearby food and water, animals known as fellow beings, strong communities, dark skies, forests without economic purpose—-because technology has finally become advanced enough to disappear into the service of life.
+Its technological ideal is therefore paradoxical: **the more sophisticated civilization becomes, the less visibly it dominates the Earth.** The Neolithic Future is not a return to the past, but a passage through extreme technological capability toward a world that feels ancient again—rooted homes, living soils, nearby food and water, animals known as fellow beings, strong communities, dark skies, forests without economic purpose—because technology has finally become advanced enough to disappear into the service of life.
 
 The destination is neither primitive nor hyper-industrial. It is a civilization sophisticated enough to become **rooted, local, abundant, interdependent, and nearly invisible within the living Earth.**
 
@@ -799,7 +799,7 @@ $$
 }
 $$
 
-The infrastructure of [EarthOS](https://www.cyclops.ai/earth-os) has already begun. The next pieces of the puzzle are Foundational Earth Models: [On the foundations of Earth foundation models](https://www.nature.com/articles/s43247-025-03127-x), [Towards ecologically meaningful foundation models](https://ecoevorxiv.org/repository/view/12013/).
+The infrastructure of [EarthOS](https://www.cyclops.ai/earth-os) has already begun. The next piece of the puzzle are Foundational Earth Models: [On the foundations of Earth foundation models](https://www.nature.com/articles/s43247-025-03127-x), [Towards ecologically meaningful foundation models](https://ecoevorxiv.org/repository/view/12013/).
 
 We do not need more theory trying to model the complexity of the ecosystem.
 
@@ -823,8 +823,73 @@ With enough Solarpunk villages, Mother Earth gains a new awareness of herself.
 
 **That is profound.**
 
+## Education, Ecology, Research, Development, and Economy (EERDE)
 
-### Education, Ecology, Research, Development, and Economy (EERDE)
+Everything begins with the home and village. The house develops something analogous to anatomy:
+
+$$
+\boxed{
+\text{roots} \rightarrow \text{foundation, geothermal exchange, water} \\
+\text{skn} \rightarrow \text{solar harvesting, thermal regulation, habitat, food} \\
+\text{vasculature} \rightattow \text{water, air, and power circulation} \\
+\text{gut} \rightarrow \text{composting and material recovery} \\
+\text{nervous system} \rightarrow \text{sensor stack} \\
+\text{brain} \rightarrow \text{local AI} \\
+\text{immune system} \rightarrow \text{ecological and health monitoring.}
+}
+$$
+
+But the most important organ has been mising: **the school**.
+
+Not a building children disappear into for eight hours.
+
+The **entire habitat becomes pedagogical**.
+
+### Education becomes participation in reality
+
+A child growing up in an EarthOS village doesn't merely learn that water cycles exist.
+
+She helps maintain one.
+
+She watches rain enter the roof canopy, sees water stored in the neighborhood cistern, measures soil moisture, monitors the wetland, and eventually understands the equations governing the system.
+
+She doesn't merely learn biology from diagrams.
+
+She cultures mushrooms.
+
+Tends animals.
+
+Looks through microscopes at soil.
+
+Learns why contamination matters.
+
+Learns genetics.
+
+Learns ecology.
+
+Learns when not to intervene.
+
+Learns how to code, build, and maintain the AI models that monitor the ecosystem.
+
+Physics ceases to be a list of formulas detached from life because the house itself demonstrates:
+
+heat flow,
+
+capillarity,
+
+mechanics,
+
+optics,
+
+electricity,
+
+fluid dynamics,
+
+thermodynamics.
+
+**Mathematics becomes a language for understanding the world immediately around you.**
+
+A teenager might calculate the thermal conductivity of her wall in the morning and harvest strawberries growing from it that afternoon.
 
 ---
 
