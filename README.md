@@ -894,11 +894,7 @@ A teenager might calculate the thermal conductivity of her wall in the morning a
 
 That is the **Neolithic Future classroom**:
 
-$$
-\boxed{
-    \text{learning by participation in the metabolism that keeps you alive.}
-}
-$$
+> learning by participation in the metabolism that keeps you alive.
 	​
 ## 4.2 Education becomes a sacred rite-of-passage
 
