@@ -828,7 +828,6 @@ With enough Solarpunk villages, Mother Earth gains a new awareness of herself.
 Everything begins with the home and village. The house develops something analogous to anatomy:
 
 $$
-\begin{center}
 \text{roots} \rightarrow \text{foundation, geothermal exchange, water} \\
 \text{skn} \rightarrow \text{solar harvesting, thermal regulation, habitat, food} \\
 \text{vasculature} \rightattow \text{water, air, and power circulation} \\
@@ -836,7 +835,6 @@ $$
 \text{nervous system} \rightarrow \text{sensor stack} \\
 \text{brain} \rightarrow \text{local AI} \\
 \text{immune system} \rightarrow \text{ecological and health monitoring.}
-\end{center}
 $$
 
 But the most important organ has been mising: **the school**.
