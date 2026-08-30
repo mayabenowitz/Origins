@@ -105,7 +105,7 @@ Thus the foundational equation of the Neolithic Future is accompanied by a civil
 
 ## 2. Spirituality & Heart–Mind Coherence: The Human Operating Layer
 
-A civilization capable of manipulating biology, planetary ecosystems, and **eventually spacetime** cannot remain organized around chronic fear, humiliation, domination, manipulation, comparison, enforced conformity, worth conditioned on utility, and scarcity.
+A civilization capable of manipulating biology, planetary ecosystems, and **eventually spacetime** cannot remain organized around chronic fear, separation, extraction, humiliation, domination, manipulation, control, comparison, enforced conformity, worth conditioned on utility, and scarcity.
 
 Heart-Mind coherence means integration among
 
