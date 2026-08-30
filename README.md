@@ -123,7 +123,7 @@ $$
 }
 $$
 
-to enter a physiological state where your heart rhythm, breathing, and brain waves synchronize into a smooth, harmonious pattern. The regulated nervous system is not a permanently tranquil nervous system. It is one capable of moving adaptively through:
+to enter a physiological state where your heart rhythm, breathing, brain waves, and other systems synchronize into a smooth, harmonious pattern. The regulated nervous system is not a permanently tranquil nervous system. It is one capable of moving adaptively through:
 
 - activation;
 - grief;
@@ -175,17 +175,17 @@ Under stress, the heart's rhythm becomes erratic and jagged. This chaotic **Hear
 
 The point of spirituality is not to escape the world.
 
-**It is to escape the masks we hide behind to become our truest self, reclaiming our energy, and self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, and Divine Creation**.
+**It is to escape the masks we hide behind to become our truest self, reclaiming our energy to act on our highest excitement and passion--which can be as simple as being a warm communicator--, and self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, and Divine Creation**.
 
 This is the *beginning* of the New Earth.
 
-The next phase is the **Divine Creation of Divine technology that disappears into the elevation of all life.**
+The next phase is the **Divine Creation of Divine technology & art that disappears into the elevation of all life.**
 
 ---
 
 # The Neolithic Future
 
-**The Neolithic Future** is a model of civilization in which advanced technology restores the intimacy, locality, and ecological embeddedness of early human settlement without returning to scarcity, hierarchy, or ecological vulnerability. It is the human-scale expression of **EarthOS**, implemented physically through **Metabolic Habitat Engineering**: settlements are designed as nested, bioregionally adapted metabolisms in which housing, energy, food, water, materials, medicine, education, research, development, technology, and surrounding ecosystems function as one regenerative system. Rather than forcing landscapes to conform to standardized cities, the watershed, climate, soil, species, and culture become the boundary conditions from which settlement is computationally grown. AI, synthetic biology, cultivated food, metamaterials, robotics, and distributed clean energy provide abundance while progressively reducing humanity’s need to appropriate land, animals, labor, and ecological complexity. 
+**The Neolithic Future** is a model of civilization in which advanced technology restores the intimacy, locality, and ecological embeddedness of early human settlement without returning to scarcity, hierarchy, or ecological vulnerability. It is the human-scale expression of **EarthOS**, implemented physically through **Metabolic Habitat Engineering**: settlements are designed as nested, bioregionally adapted metabolisms in which housing, energy, food, water, materials, medicine, education, research, development, technology, and surrounding ecosystems function as one regenerative system. Rather than forcing landscapes to conform to standardized cities, the watershed, climate, soil, species, and culture become the boundary conditions from which settlement is computationally grown. AI, biomemetics, cultivated food, metamaterials, robotics, and distributed clean energy provide abundance while progressively reducing humanity’s need to appropriate land, animals, labor, and ecological complexity. 
 
 Sovereignty is fractal—person, home, neighborhood, watershed, bioregion, planet—so local communities remain resilient and self-determining while participating in planetary networks of knowledge and exchange. 
 
@@ -258,6 +258,8 @@ One family carries mechanical load.
 
 Another distributes treated water toward surrounding vegetation. Another houses sensors to collect data. Another forms habitat cavities outside the structural zone.
 
+**The distributed root system makes the home earthquake resistant!**
+
 ### Then the clay itself becomes a metamaterial
 
 We shouldn't think:
@@ -289,6 +291,12 @@ $$
 all printed from variations of the same mineral-biopolymer family. Then density becomes intelligently spatially graded. Where compression is high, increase density. Where insulation is needed, increase pore count. Where water is needed, optimize capillary action. 
 
 The Solarpunk wall isn't one material--**it's a continuous field of material properties**.
+
+In high storm-surge areas, give the home a thick hydrophobic layer.
+
+In areas prone to hurricanes and tornadoes, print a root system that branches from the soil to the walls and ceilings to stabilize the home.
+
+**Extreme weather and climate can be greatly mitigated with the right configuration of matter**.
 
 ### Give the Solarpunk house xylem
 
@@ -684,7 +692,15 @@ Water trickles visibly through a ceramic channel after rain.
 
 Children pick berries on their way home.
 
+Neighbours harvest food together, cook in community kitchens, and eat in community dining halls.
+
 The exterior walls are rough enough for mosses and beneficial insects in designated habitat zones.
+
+Children dance around a fire singing to a dark stary night.
+
+**Adults get their funk on--making funny noises and faces, expressing their inner child without fear of judgement or being seen as weird**.
+
+**Children laugh and learn they are safe to be themselves.**
 
 Swallows nest in printed cavities above the edible areas.
 
@@ -710,9 +726,11 @@ developed habitat,
 
 optimized water cycles,
 
-and an accumulated ecological history with a vast database for AI model training.
+an accumulated ecological history with a vast database for AI model training,
 
-**That's much closer to how we value a forest--but with a central nervous system and a brain.**
+and some fucking soul.
+
+**That's much closer to how we value a forest--but with a central nervous system, a brain, and a personality.**
 
 ### And that suggests a new unit of architecture
 
@@ -866,6 +884,8 @@ Learns why contamination matters.
 
 Learns ecology.
 
+Learns to take bacterial samples of the food growing in her home and use petri dishes to test for ecoli.
+
 Learns genetics.
 
 Learns when not to intervene.
@@ -899,6 +919,4 @@ That is the **Neolithic Future classroom**:
 ## 4.2 Education becomes a sacred rite-of-passage
 
 ---
-
-
 
