@@ -859,7 +859,6 @@ $$
 \end{aligned}
 $$
 
-
 But the most important organ has been mising: **the school**.
 
 Not a building children disappear into for eight hours.
