@@ -730,7 +730,7 @@ animals as neighbourhood friends living their best lives,
 
 an accumulated ecological history with a vast database for AI model training,
 
-**with some fucking soul.**
+**and some fucking soul.**
 
 **That's much closer to how we value a forest but with a nervous system, a brain, and a soul---that's priceless.**
 
