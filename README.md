@@ -704,7 +704,7 @@ Children dance around a fire singing to a dark stary night.
 
 Swallows nest in printed cavities above the edible areas.
 
-Solar leaves create shade overhead.
+They learn to sing and fly as a school in rythm with bellow.
 
 A house literally gets greener and more ecologically complex as it ages.
 
@@ -722,15 +722,17 @@ established fungal communities,
 
 mature vines,
 
+optimized water cycles,
+
 developed habitat,
 
-optimized water cycles,
+animals as neighbourhood friends living their best lives,
 
 an accumulated ecological history with a vast database for AI model training,
 
-and some fucking soul.
+**with some fucking soul.**
 
-**That's much closer to how we value a forest--but with a central nervous system, a brain, and a personality.**
+**That's much closer to how we value a forest but with a nervous system, a brain, and a soul---that's priceless.**
 
 ### And that suggests a new unit of architecture
 
