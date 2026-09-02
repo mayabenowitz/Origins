@@ -103,7 +103,13 @@ Thus the foundational equation of the Neolithic Future is accompanied by a civil
 
 ## 1.1 Time is an illusion 
 
-Source is timeless. There is no past. There is no present. Only the Eternal Now--where everything that can exist, exits everywhere--all at once. **Thus, death is also an illusion**. We are all multidimensional beings!
+Source is timeless. There is no past. There is no present. Only the **Eternal Now**--where everything that can exist, exits everywhere--all at once. Thus, **death is also an illusion**. We are all multidimensional beings. 
+
+**Your soul is an infinite dimensional wave.** 
+
+It can neither be created nor destroyed.
+
+The **Eternal Self** is the highest of the high of selves.
 
 ---
 
