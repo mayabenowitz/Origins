@@ -194,7 +194,7 @@ The point of spirituality is not to escape the world.
 Spirituality is the *vehicle* for self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, playful creativity, and **Divine Co-Creation**.
 
 <details>
-  <summary>Having discernment of the dark spirtual forces</summary>
+  <summary>Having discernment of the dark spiritual forces</summary>
   
   Those who seek to get a reaction out of you by putting you in a fight-or-flight state are **energy vampires**. They literally feed on your energy keeping you in a state of fear. Manufactured urgency, heirarchy "climbing the ladder", and worth conidtioned on utility are all examples of energy vampire spells.
   
@@ -203,7 +203,9 @@ Spirituality is the *vehicle* for self-organizing into highly interconnected sov
 
 This is the *beginning* of the New Earth.
 
-The next phase is the **Divine Co-Creation of Divine technology that disappears into the elevation of all life.** (Yes, art is a technology too!)
+The next phase is the **Divine Co-Creation of Divine technology that disappears into the elevation of all life.** 
+
+Yes, art is a technology too! And so is a hug, being kind, listening in warmth, etc. We call these Divine (metabolic) energy technologies. They are the spells of the energy healers. Always support the healers!
 
 ---
 
