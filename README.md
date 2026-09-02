@@ -185,11 +185,13 @@ Under stress, the heart's rhythm becomes erratic and jagged. This chaotic **Hear
 
 The point of spirituality is not to escape the world.
 
-**It is to gain the awareness to see through all illusions, escape the masks we hide behind to become our truest selves, reclaiming our energy, childlike wonder, and curiosity, to act on our highest excitement and passion--self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, playful creativity, and Divine Creation**.
+**It is to gain the awareness to see through all illusions, escape the masks we hide behind to become our truest selves, reclaiming our energy, childlike wonder, curiosity, and creativity to act on our highest excitement and passion in Divine Creation.**
+
+Spirituality is the *vehicle* for self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, playful creativity, and **Divine Co-Creation**.
 
 This is the *beginning* of the New Earth.
 
-The next phase is the **Divine Co-Creation of Divine technology that disappears into the elevation of all life.** (Yes, art is a technology!)
+The next phase is the **Divine Co-Creation of Divine technology that disappears into the elevation of all life.** (Yes, art is a technology too!)
 
 ---
 
