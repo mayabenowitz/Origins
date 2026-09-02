@@ -101,6 +101,10 @@ Thus the foundational equation of the Neolithic Future is accompanied by a civil
 
 > Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.
 
+## 1.1 Time is an illusion 
+
+Source is timeless. There is no past. There is no present. Only the Eternal Now--where everything that can exist, exits everywhere--all at once. **Thus, death is also an illusion**. We are all multidimensional beings!
+
 ---
 
 ## 2. Spirituality & Heart–Mind Coherence: The Human Operating Layer
@@ -123,7 +127,7 @@ $$
 }
 $$
 
-to enter a physiological state where your heart rhythm, breathing, brain waves, and other systems synchronize into a smooth, harmonious pattern. The regulated nervous system is not a permanently tranquil nervous system. It is one capable of moving adaptively through:
+to enter a physiological state where your heart rhythm, breathing, brain waves, (and other systems) synchronize into a smooth, harmonious pattern. The regulated nervous system is not a permanently tranquil nervous system. It is one capable of moving adaptively through:
 
 - activation;
 - grief;
@@ -175,11 +179,11 @@ Under stress, the heart's rhythm becomes erratic and jagged. This chaotic **Hear
 
 The point of spirituality is not to escape the world.
 
-**It is to escape the masks we hide behind to become our truest self, reclaiming our energy to act on our highest excitement and passion--which can be as simple as being a warm communicator--, and self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, and Divine Creation**.
+**It is to gain the awareness to see through all illusions, escape the masks we hide behind to become our truest selves, reclaiming our energy, childlike wonder, and curiosity, to act on our highest excitement and passion--self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, playful creativity, and Divine Creation**.
 
 This is the *beginning* of the New Earth.
 
-The next phase is the **Divine Creation of Divine technology & art that disappears into the elevation of all life.**
+The next phase is the **Divine Co-Creation of Divine technology that disappears into the elevation of all life.** (Yes, art is a technology!)
 
 ---
 
