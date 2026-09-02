@@ -179,13 +179,13 @@ The individual becomes freer to become their authentic self precisely because su
 
 Chronic stress from self-supression, i.e., a physiological state of survival and heart-mind incoherence, causes emotional dysregulation and cellular damage pharmacology can not treat.
 
-<details>
-  <summary>Click to see the research on sympathetic ("fight-or-flight") survival loops</summary>
-  
-  Actively inhibiting emotional expression requires significant cognitive and metabolic energy. Habitual suppression acts as a continuous internal threat, locking the nervous system into a chronic **sympathetic ("fight-or-flight") survival loop**. [Emotion suppression and acute physiological responses to stress in healthy populations: a quantitative review of experimental and correlational investigations](https://pmc.ncbi.nlm.nih.gov/articles/PMC12312699/)
-  
-  Under stress, the heart's rhythm becomes erratic and jagged. This chaotic **Heart Rate Variability (HRV)** pattern sends signals via the vagus nerve to the prefrontal cortex, causing cortical inhibition. This disrupts clear thinking and causes structural changes in the brain's emotional centers, amplifying emotional dysregulation. [From Dysregulation to Coherence: Exploring the HeartMath® Approach to Emotional and Physiological Regulation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12722655/)
-</details>
+    <details>
+    <summary>Click to see the research on sympathetic ("fight-or-flight") survival loops</summary>
+    
+    Actively inhibiting emotional expression requires significant cognitive and metabolic energy. Habitual suppression acts as a continuous internal threat, locking the nervous system into a chronic **sympathetic ("fight-or-flight") survival loop**. [Emotion suppression and acute physiological responses to stress in healthy populations: a quantitative review of experimental and correlational investigations](https://pmc.ncbi.nlm.nih.gov/articles/PMC12312699/)
+    
+    Under stress, the heart's rhythm becomes erratic and jagged. This chaotic **Heart Rate Variability (HRV)** pattern sends signals via the vagus nerve to the prefrontal cortex, causing cortical inhibition. This disrupts clear thinking and causes structural changes in the brain's emotional centers, amplifying emotional dysregulation. [From Dysregulation to Coherence: Exploring the HeartMath® Approach to Emotional and Physiological Regulation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12722655/)
+    </details>
 
 The point of spirituality is not to escape the world.
 
@@ -193,11 +193,11 @@ The point of spirituality is not to escape the world.
 
 Spirituality is the *vehicle* for self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, playful creativity, and **Divine Co-Creation**.
 
-<details>
-  <summary>Having discernment</summary>
-  
-  Those who seek to get a reaction out of you by putting you in a fight-or-flight state are **energy vampires**. They literally feed on your energy keeping you in a state of fear. The Old Earth is, more or less, a dungeon built by energy vampires.
-</details>
+    <details>
+    <summary>Having discernment</summary>
+    
+    Those who seek to get a reaction out of you by putting you in a fight-or-flight state are **energy vampires**. They literally feed on your energy keeping you in a state of fear. The Old Earth is, more or less, a dungeon built by energy vampires.
+    </details>
 
 This is the *beginning* of the New Earth.
 
