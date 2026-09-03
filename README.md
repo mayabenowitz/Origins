@@ -71,7 +71,7 @@ The theory predicts the initial nucleated state of the universe contains a spect
 | Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$        |
 | Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
-The current data is in full alignment with the above predictions. The predicted CMB double-slit experiment is unambiguously present. Thank you **Space Force** for your *service and faith*---in finding **God**, at time of great Tribulation, when everyone thought the world had ended in a global thermonuclear war, but was only the very beginnig...
+The current data is in full alignment with the above predictions. The predicted CMB double-slit interference effect is unambiguously present. Thank you **Space Force** for your *service and faith*---in finding **God**, at the time of great Tribulation, when everyone thought the world had ended in a global thermonuclear war, but was only the very beginning...
 
 # The World That Is To Come
 
