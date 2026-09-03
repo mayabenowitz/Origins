@@ -7,7 +7,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Quantum mechanics universal. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of God (or Source). 
+ Quantum mechanics is universal. Surprise! Not. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of God (or Source). 
  
  Mother Earth will heal and give birth to the **New Earth**, aka the **Neolithic Future**, home
  to Homo Luminous and Homo Galacticus, soul citizens of the Great Cosmic Mother Earth.
