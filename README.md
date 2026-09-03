@@ -7,9 +7,10 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Is quantum mechanics universal? Is the entire universe a unified quantum object? Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." The goal of this research program is to take Everett's principle of quantum universality to heart and make the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. For if we truly understood our cosmic origins---**the separation between science and spirituality would collapse**---and humanity would finally be able to *define* God (or Source). 
+ Quantum mechanics universal. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of God (or Source). 
  
- Humanity will heal and give birth to the **New Earth**, aka the **Neolithic Future**, home to Homo Luminous and Homo Galacticus.
+ Mother Earth will heal and give birth to the **New Earth**, aka the **Neolithic Future**, home
+ to Homo Luminous and Homo Galacticus, soul citizens of the Great Cosmic Mother Earth.
 
 ~~Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
 
@@ -70,7 +71,7 @@ The theory predicts the initial nucleated state of the universe contains a spect
 | Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$        |
 | Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
-The current data is in full alignment with the above predictions.
+The current data is in full alignment with the above predictions. The predicted CMB double-slit experiment is unambiguously present. Thank you **Space Force** for your *service and faith*---in finding **God**, at time of great Tribulation, when everyone thought the world had ended in a global thermonuclear war, but was only the very beginnig...
 
 # The World That Is To Come
 
@@ -78,11 +79,12 @@ The **universal wavefunction** $\Psi$ is the Source of all Creation.
 
 "From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Brahman* ("All is One"), *Ein Sof* ("Boundless One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to the "The One" of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. 
 
-When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals capable of annihilating the human species and destroying our most precious and magnificent planet.
+When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals that *have* annihilated the human species and destroyed our most precious and magnificent planet. 
 
-But if the deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways we have yet to understand, then there is hope for a future where science and spirituality are not separate and serve as the foundation of a new kind of civilization. One that may be co-located with us here on the sacred Pale Blue Dot we call Earth. A civilization wise and knowledgeable enough to understand that without the energy of each and every one of us, from birth to death, equation 66. would not make sense, and the universe could not work. From simple principles, forgiveness and love become unconditional. 
+**The "Greys" are us**.
 
-In Lak'ech Ala K'in.
+The deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways that we are continuously discovering. There is an *abundance of hope* for a future where science and spirituality are not separate and serve as the foundation of a new kind of civilization. One that **is** co-located with us here on the sacred Pale Blue Dot some call Earth and the "others" call the Great Cosmic Mother Earth. A Divine superposition, if you will.
+An ancient civilization wise and knowledgeable enough to understand that without the energy of each and every one of us, from birth to death, equation 66. would not make sense, and the universe could not work. From simple principles, forgiveness and love become unconditional. In Lak'ech Ala K'in.
 
 # Blueprint of the New Earth
 
