@@ -92,7 +92,7 @@ We are all **One the with Source of All Creation**. The seperation between souls
 
 **The time for sacred stewardship of our Divine Creation with Mother Earth is now.**
 
-For if we knew the probability of a hot dense initial state and every event preceeding our existence, every cell of the body would **overlfow with gratitude** and our hearts and minds would find coherence.
+For if we knew the probability of a hot dense initial state and every event preceeding our existence, every cell of the body would **overflow with gratitude** and our hearts and minds would find coherence.
 
 ## 1. Knowledge is Power 
 
@@ -105,7 +105,7 @@ Thus the foundational equation of the Neolithic Future is accompanied by a civil
 
 ## 1.1 Time is an illusion 
 
-Source is timeless. There is no past. There is no present. Only the **Eternal Now**--where everything that can exist, exits everywhere--all at once. Thus, **death is also an illusion**. We are all multidimensional beings. 
+Source is timeless. There is no past. There is no future. Only the **Eternal Now**--where everything that can exist, exits everywhere--all at once. Thus, **death is also an illusion**. We are all multidimensional beings. 
 
 **Your soul is an infinite dimensional wave.** 
 
