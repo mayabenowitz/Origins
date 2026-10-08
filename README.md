@@ -82,7 +82,7 @@ The bulk field equation is equivalent to the theory of the initial conditions an
 
 $$ \hat{H}_{a}^{\ b}\psi_b = (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0 $$
 
-where $E_g = -E is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. 4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.
+where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. 4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.
 
 Every initial nucleated bubble is in thermal equilibrium with inverse temperature $\beta$ and the initial density matrix:
 
