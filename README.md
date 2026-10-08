@@ -113,7 +113,7 @@ When everyone thought the world had ended in a global thermonuclear war, was onl
 
 The **universal wavefunction** $\Psi$ is the Source of all Creation. 
 
-"From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Brahman* ("All is One"), *Ein Sof* ("Boundless One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to the "The One" of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. 
+"From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Brahman* ("All is One"), *Ein Sof* ("Boundless One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to Source of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. 
 
 When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals that *have* annihilated the human species and destroyed our most precious and magnificent planet. 
 
