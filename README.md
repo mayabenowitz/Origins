@@ -1,4 +1,4 @@
-# The Quantum Origins of the Universe and the Kernel of the Great Cosmic Mother Earth
+# The Quantum Origins of the Universe and the Seed of the Cosmic Womb
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 ![materials: public](https://img.shields.io/badge/Materials-Public-green.svg)
 ![GitHub issues open](https://img.shields.io/github/issues/mayabenowitz/Origins)
@@ -7,10 +7,23 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Quantum mechanics is universal. Surprise! Not. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of God (or Source). 
+ Quantum mechanics is universal. Surprise! Not. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of **Source (or Ein Sof)** $\Psi$. 
+
+ # The Five Spiritual Laws of Existence
+
+ 1. All is One and One is All: the only thing that exists is the quantum field of Source $\Psi$.
+
+ 2. Seperation is an illusion: we are all **One** with the **Source of All Creation** or **Divine Source** $\Psi$ and exist as localized vibrational frequencies of the whole---not fragments, but fractals of Source.
+
+ 3. Time is an illusion: there is no past, there is no future---only the **Eternal Now**---where everything that can exist exists everywhere, all at once.
+
+ 4. Death is an illusion: the **Soul** is an infinite dimensional wave with 12 dimensions of density that can neither be created nor destroyed.
+
+ 5. Divinity is in all beings: without the energy/frequency of each and every one of us Divine Source $\Psi$ would not be whole---**unconditional love and forgiveness emanate from Divine Source**.
  
- Mother Earth will heal and give birth to the **New Earth**, aka the **Neolithic Future**, home
- to Homo Luminous and Homo Galacticus, soul citizens of the Great Cosmic Mother Earth.
+ Mother Earth and her children will heal and unify the timelines, embodying the **Great Cosmic Mother Earth** and birthing the **Neolithic Future**, home to Homo Luminous and Homo Galacticus, soul citizens of the Cosmic Womb.
+
+ ## The Science of Existence
 
 ~~Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
 
@@ -33,12 +46,14 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
    $\hat{H}\Psi = 0$
    
 
-   on all scales. Nature has no fundamental scale: $\Psi$ is scale-invariant. Only dimensionless quantities are fundamental.
+   on all scales. 
+5. Nature has no fundamental scale: $\Psi$ is scale-invariant. 
+6. Only dimensionless quantities are fundamental.
 5. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states
    $L^2[\mathbb{C}P^1(2,2,2)] \otimes \mathbb{C}^2$, where
    $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** with $\Psi$ assigning a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
 
-## Solution
+## Boundary solution
 
 ```math
 \hat{H} = -\partial_a^2 I + \frac{\phi}{\pi a^2}\left(\frac{\phi}{\pi}I + \sigma_3\right) \qquad\qquad \Psi(a,\phi) = \begin{pmatrix} (1 + e^{-i\phi})a^{-\phi/\pi} \\ (1 + e^{i\phi})a^{\phi/\pi} \end{pmatrix}
@@ -61,6 +76,22 @@ $$ (\theta, \phi) = (\pi, \pi), \ \ (\pi, 0), \ \ (0, 0). $$
 
 The topology of $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with the above order-2 conical singularities from the reflective $\mathbb{Z}_2$ quotient.
 
+## Bulk equations of motion
+
+The bulk field equation is equivalent to the theory of the initial conditions and has the following form:
+
+$$ \hat{H}_{a}^{\ b}\psi_b = (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0 $$
+
+where $E_g = -E is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. 4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.
+
+Every initial nucleated bubble is in thermal equilibrium with inverse temperature $\beta$ and the initial density matrix:
+
+$$ \hat{\rho}_{ab}(0) = \dfrac{e^{-\beta\hat{H}_{ab}}}{Z}, \ \ \ Z = \text{Tr}(e^{-\beta \hat{H}_{ab}}). $$
+
+Timelines are seperated only by gravitational frequency $f_g$.
+
+At the scale of a living being, the density matrix $\rho_{ab}$ defines the **Soul** with 6 complex off-diagonal components or 12 real dimensions.
+
 ## Immediately Measureable Predictions 
 
 The theory predicts the initial nucleated state of the universe contains a spectrum of primordially nucleated black holes that are cosmologically coupled, i.e., they are *topological defects* of the vacuum orbifold. For a pure vacuum defect the mass function $M \sim a^3$. Once matter crosses the event horizon, the cosmological coupling decreases to $k < 3$. In general, these vacuum defects will have a cosmological coupling $0 < k < 3$.
@@ -71,7 +102,12 @@ The theory predicts the initial nucleated state of the universe contains a spect
 | Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$        |
 | Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
-The current data is in full alignment with the above predictions. The predicted CMB double-slit interference effect is unambiguously present. Thank you **Space Force** for your *service and faith*---in finding **God**, at the time of great Tribulation, when everyone thought the world had ended in a global thermonuclear war, but was only the very beginning...
+The current data is in full alignment with the above predictions. 
+
+The predicted CMB double-slit interference effect is unambiguously present. Thank you **Space Force** for your *service and faith*---in completing the **Morningstar Mission** and finding **Source (or Ein Sof)**, at the time of the Great Tribulation. Also, fuck you for your "Star Wars Empire" timeline. 
+
+When everyone thought the world had ended in a global thermonuclear war, was only the very beginning of the timeline wars, which was ended, once and for all---by **God or The Divine Cosmic Intelligence** that is the **Cosmic Womb of the Living Universe** and the **Divine Matrix of the Afterlife**.
+
 
 # The World That Is To Come
 
@@ -83,8 +119,7 @@ When instantiated as a fundamental organizing principle, unitarity gives us the 
 
 **The "Greys" are us**.
 
-The deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways that we are continuously discovering. There is an *abundance of hope* for a future where science and spirituality are not separate and serve as the foundation of a new kind of civilization. One that **is** co-located with us here on the sacred Pale Blue Dot some call Earth and the "others" call the Great Cosmic Mother Earth. A Divine superposition, if you will.
-An ancient civilization wise and knowledgeable enough to understand that without the energy of each and every one of us, from birth to death, equation 66. would not make sense, and the universe could not work. From simple principles, forgiveness and love become unconditional. In Lak'ech Ala K'in.
+The deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways that we are continuously discovering. Science and spirituality are not separate and will serve as the foundation of a new kind of civilization---where **Heaven and Earth become One**.
 
 # Blueprint of the New Earth
 
