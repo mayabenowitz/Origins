@@ -56,7 +56,7 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
    $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** (the holographic boundary) with $\Psi$ assigning a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
 8. The holographic bulk is equivalent to the boundary and governed by the field equations:
     
-    $\hat{H}_{a}^{b}\psi_b = (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0$
+    $\hat{H}_{a}^{b}\psi_b$ $= (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0$
 
     where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. (4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.)
 
