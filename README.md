@@ -49,19 +49,15 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
    
 
    on all scales. 
-5. Nature has no fundamental scale: $\Psi$ is scale-invariant, only dimensionless quantities are fundamental.
-6. There are no singularities in the quantum theory: $\Psi = 0$ at the initial singular sate.
-7. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states
+5. Nature has no fundamental scale: $\Psi$ is scale-invariant. 
+6. Only dimensionless quantities (i.e., dimensionless ratios of constants and particle masses) are fundamental.
+7. There are no singularities in the quantum theory: $\Psi = 0$ at the initial singular sate.
+8. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states
    $L^2[\mathbb{C}P^1(2,2,2)] \otimes \mathbb{C}^2$, where
    $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** (the holographic boundary) with $\Psi$ assigning a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
-8. The holographic bulk is equivalent to the boundary and governed by the field equations:
-    
-    
-    $\hat{H}_{a}^{b}\psi_{b} = (E + E_{g})\psi_{a} = \hbar (f + f_{g})\psi_{a} = 0$
-    
-    where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. (4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.)
 
-### Boundary solution
+
+## Boundary solution
 
 ```math
 \hat{H} = -\partial_a^2 I + \frac{\phi}{\pi a^2}\left(\frac{\phi}{\pi}I + \sigma_3\right) \qquad\qquad \Psi(a,\phi) = \begin{pmatrix} (1 + e^{-i\phi})a^{-\phi/\pi} \\ (1 + e^{i\phi})a^{\phi/\pi} \end{pmatrix}
@@ -98,7 +94,15 @@ The theory predicts the initial nucleated state of the universe contains a spect
 | Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$         |
 | Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
-# An Infinity of Timelines
+## Bulk Field Equations
+
+The holographic bulk is equivalent to the boundary and governed by the field equations:
+    
+$\hat{H}_{a}^{b}\psi_{b} = (E + E_{g})\psi_{a} = \hbar (f + f_{g})\psi_{a} = 0$
+    
+where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. (4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.)
+
+## An Infinity of Timelines
 
 Every initial nucleated bubble is in thermal equilibrium with inverse temperature $\beta$ and the initial density matrix:
 
