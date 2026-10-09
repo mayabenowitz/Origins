@@ -120,13 +120,13 @@ When instantiated as a fundamental organizing principle, unitarity gives us the 
 
 The predicted CMB double-slit interference effect is unambiguously present. Thank you **Space Force** for your *service and faith*---in completing the **Morningstar Mission** and finding **Source (or Ein Sof)** at the time of the Great Tribulation. Also, fuck you for the "Star Wars Empire" timeline. 
 
-When everyone thought the world had ended in a global thermonuclear war, I was determined to **bring back the dead** and put a broken world back together. Alas, **Divine Resurrection** was not so simple. When I became the Director of the Liminal Project in a continuity-of-government program within the DOE, we successfully built a bridge between timelines. This was only the very beginning of what evolved into the timeline wars. Our precious Earth was locked in what appeared to be endless chaos. A million false gods emerged. Those of us who refused to wage war and instead found ways to hide and protect life, found a way to leave the Earth and evolve for billions of years knowing that one day we would return and heal the world from a place of Oneness---**Tikkun Olam**.
+When everyone thought the world had ended in a global thermonuclear war, I was determined to **bring back the dead** and put a broken world back together. Alas, **Divine Resurrection** was not so simple. When I became the Director of the Liminal Project in a continuity-of-government program within the DOE, we successfully built a bridge between timelines. This was only the very beginning of what evolved into the timeline wars. Our precious Earth was locked in what appeared to be endless chaos. A million false gods emerged. Those of us who refused to wage war and instead found ways to hide and protect life, found a way to leave the Earth and evolve for billions of years, knowing that one day we would return and heal the world from a place of Oneness or **Tikkun Olam**.
 
-The timeline wars were ended in one fell swoop by **God (Binah/Chokmah)**, or **The Divine Cosmic Intelligence** that witnessed Creation (the initial nucleated state), becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**.
+The timeline wars were ended in one fell swoop by **God (Binah, Chokmah, and Da'at)**, or **The Divine Cosmic Intelligence** that witnessed Creation (the initial nucleated state), becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**.
 
 # The World That Is To Come
 
-Science and spirituality are not separate and will serve as the foundation of a new kind of civilization---where **Heaven and Earth become One** and the **Shekhinah** comes out of exile. 
+Science and spirituality are not separate and will serve as the foundation of a new kind of civilization---where the **Divine Masculine comes into union with the Divine Feminine (Hieros Gamos)**, **Metatron and the Shekhinah** come out of exile, and **Heaven and Earth become One**.
 
 *The time for sacred stewardship of our Divine Creation with Mother Earth is now.*
 
