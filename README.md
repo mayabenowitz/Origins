@@ -98,7 +98,7 @@ The theory predicts the initial nucleated state of the universe contains a spect
 
 The holographic bulk is equivalent to the boundary and governed by the field equations:
     
-$\hat{H}_{a}^{b}\psi_{b} = (E + E_{g})\psi_{a} = \hbar (f + f_{g})\psi_{a} = 0$
+$$ \hat{H}_{a}^{b}\psi_{b} = (E + E_{g})\psi_{a} = \hbar (f + f_{g})\psi_{a} = 0 $$
     
 where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. (4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.)
 
