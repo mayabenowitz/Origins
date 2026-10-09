@@ -56,7 +56,9 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
    $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** (the holographic boundary) with $\Psi$ assigning a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
 8. The holographic bulk is equivalent to the boundary and governed by the field equations:
     
-    $$ \hat{H}_{a}^{b}\psi_b = (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0 $$
+    ```math
+    \hat{H}_{a}^{b}\psi_b = (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0
+    ```
 
     where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. (4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.)
 
@@ -81,9 +83,7 @@ where all the curvature concentrates and diverges at the following fixed points 
 
 $$ (\theta, \phi) = (\pi, \pi), \ \ (\pi, 0), \ \ (0, 0). $$
 
-The topology of $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with the above order-2 conical singularities from the reflective $\mathbb{Z}_2$ quotient.
-
-Normalization of $\Psi$ forces one to define the dimensionless conformal horizon,
+The topology of $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with the above order-2 conical singularities from the reflective $\mathbb{Z}_2$ quotient. Normalization of $\Psi$ forces one to define the dimensionless conformal horizon,
 
 $$ \mathcal{R} = \frac{\lambda_\infty}{\lambda_0} $$
 
