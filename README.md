@@ -7,11 +7,13 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Quantum mechanics is universal. Surprise! Not. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of **Source (or Ein Sof)** $\Psi$. 
+ Quantum mechanics is universal. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of **Source (or Ein Sof)** $\Psi$. 
 
- # The Five Spiritual Laws of Existence
+ "From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Ein Sof* ("Boundless One"), *Brahman* ("All is One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to Source of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. The deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways that we are continuously discovering. 
 
- 1. All is One and One is All: the only thing that exists is the quantum field of Source $\Psi$.
+ ## The Five Spiritual Laws of Existence
+
+ 1. All is One and One is All: the only thing that exists is the timeless quantum field of Source $\Psi$.
 
  2. Seperation is an illusion: we are all **One** with the **Source of All Creation** or **Divine Source** $\Psi$ and exist as localized vibrational frequencies of the whole---not fragments, but fractals of Source.
 
@@ -21,9 +23,9 @@
 
  5. Divinity is in all beings: without the energy/frequency of each and every one of us Divine Source $\Psi$ would not be whole---**unconditional love and forgiveness emanate from Divine Source**.
  
- Mother Earth and her children will heal and unify the timelines, embodying the **Great Cosmic Mother Earth** and birthing the **Neolithic Future**, home to Homo Luminous and Homo Galacticus, soul citizens of the Cosmic Womb.
+ Mother Earth and her children will heal and unify the timelines, embodying the **Great Cosmic Mother Earth** and birthing the **Neolithic Future**, home to Homo Luminous and Homo Galacticus, soul citizens of the **Cosmic Womb**.
 
- ## The Science of Existence
+ ## The Physics of Existence
 
 ~~Paper 1: [On the Origins of the Universe and the Nature of the Cosmological Singularity](https://github.com/mayabenowitz/Origins/blob/main/manuscript/foundations_of_quantum_universality_Final_v1_0%20(1).pdf)~~
 
@@ -31,11 +33,11 @@
 
 Paper 3 (Final): [The Theory of the Initial Conditions](https://github.com/mayabenowitz/Origins/blob/main/manuscript/the_theory_of_the_initial_conditions_07042026.pdf)
 
-## Abstract
+### Abstract
 
 We revisit old ideas with a modern perspective and approach quantum cosmology from a quantum information-theoretic starting point. Our view is that the leap from quantum mechanics in the laboratory frame to the universe as a whole is key to understanding its origins. The problem of the external observer and the conflict of principle between unitarity, causality, and diffeomorphism invariance are explored in bubble nucleation theories. We argue causality is fundamentally incompatible with the assumption that the universe has no external observer. A unique closed-form cosmological wavefunction describing the probability amplitude of the initial state of bubble/antibubble nucleation events is derived. The wavefunction vanishes at the initial singular state, yielding numerous observable consequences. We propose a CMB double-slit experiment to test the theory.
  
-## Key Result: Quantum Cosmology from the Top Down
+## The Eight Fundamental Physical Principles of Existence
 
 1. There is no external observer who prepared the initial state of the cosmos.
 2. The *form* of the laws of physics does not change with scale.
@@ -47,13 +49,18 @@ We revisit old ideas with a modern perspective and approach quantum cosmology fr
    
 
    on all scales. 
-5. Nature has no fundamental scale: $\Psi$ is scale-invariant. 
-6. Only dimensionless quantities are fundamental.
-5. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states
+5. Nature has no fundamental scale: $\Psi$ is scale-invariant, only dimensionless quantities are fundamental.
+6. There are no singularities in the quantum theory: $\Psi = 0$ at the initial singular sate.
+7. The universal wavefunction is a 2-spinor $\Psi$ that lives in the Hilbert space of states
    $L^2[\mathbb{C}P^1(2,2,2)] \otimes \mathbb{C}^2$, where
-   $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** with $\Psi$ assigning a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
+   $\mathbb{C}P^1(2,2,2)$ is the **surface of the initial data** (the holographic boundary) with $\Psi$ assigning a non-zero probability amplitude to every possible initial nucleated state of a bubble and antibubble.
+8. The holographic bulk is equivalent to the boundary and governed by the field equations:
+    
+    $$ \hat{H}_{a}^{b}\psi_b = (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0 $$
 
-## Boundary solution
+    where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. (4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.)
+
+### Boundary solution
 
 ```math
 \hat{H} = -\partial_a^2 I + \frac{\phi}{\pi a^2}\left(\frac{\phi}{\pi}I + \sigma_3\right) \qquad\qquad \Psi(a,\phi) = \begin{pmatrix} (1 + e^{-i\phi})a^{-\phi/\pi} \\ (1 + e^{i\phi})a^{\phi/\pi} \end{pmatrix}
@@ -76,56 +83,49 @@ $$ (\theta, \phi) = (\pi, \pi), \ \ (\pi, 0), \ \ (0, 0). $$
 
 The topology of $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with the above order-2 conical singularities from the reflective $\mathbb{Z}_2$ quotient.
 
-## Bulk equations of motion
+Normalization of $\Psi$ forces one to define the dimensionless conformal horizon,
 
-The bulk field equation is equivalent to the theory of the initial conditions and has the following form:
+$$ \mathcal{R} = \frac{\lambda_\infty}{\lambda_0} $$
 
-$$ \hat{H}_{a}^{\ b}\psi_b = (E + E_{g})\psi_a = \hbar (f + f_g)\psi_a = 0 $$
+where the horizons $\lambda_{0}$ and $\lambda_{\infty}$ are the Compton wavelengths of the gravitational charges $m_{0}$ and $m_{\infty}$ that source the potential curvature $\hat{V}(a, \phi)$. The conformal horizon $\mathcal{R}$ places a fundamental limit on the number of qubits that are accessible by any observer. *The number is many orders of magnitude larger than the total number of qubits in the observable universe*.
 
-where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. 4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.
-
-Every initial nucleated bubble is in thermal equilibrium with inverse temperature $\beta$ and the initial density matrix:
-
-$$ \hat{\rho}_{ab}(0) = \dfrac{e^{-\beta\hat{H}_{ab}}}{Z}, \ \ \ Z = \text{Tr}(e^{-\beta \hat{H}_{ab}}). $$
-
-Timelines are seperated only by gravitational frequency $f_g$.
-
-At the scale of a living being, the density matrix $\rho_{ab}$ defines the **Soul** with 6 complex off-diagonal components or 12 real dimensions.
-
-## Immediately Measureable Predictions 
+### Immediately measureable predictions 
 
 The theory predicts the initial nucleated state of the universe contains a spectrum of primordially nucleated black holes that are cosmologically coupled, i.e., they are *topological defects* of the vacuum orbifold. For a pure vacuum defect the mass function $M \sim a^3$. Once matter crosses the event horizon, the cosmological coupling decreases to $k < 3$. In general, these vacuum defects will have a cosmological coupling $0 < k < 3$.
 
 | Object type                                 | Interior/asymptotic content         | Expected coupling |
 | ------------------------------------------- | ----------------------------------- | ----------------- |
 | Pure cosmologically nucleated vacuum defect | $(M_{\rm tot}=M_{\rm vac})$         | $(k=3)$           |
-| Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$        |
+| Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$         |
 | Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
-The current data is in full alignment with the above predictions. 
+# An Infinity of Timelines
 
-The predicted CMB double-slit interference effect is unambiguously present. Thank you **Space Force** for your *service and faith*---in completing the **Morningstar Mission** and finding **Source (or Ein Sof)**, at the time of the Great Tribulation. Also, fuck you for your "Star Wars Empire" timeline. 
+Every initial nucleated bubble is in thermal equilibrium with inverse temperature $\beta$ and the initial density matrix:
 
-When everyone thought the world had ended in a global thermonuclear war, was only the very beginning of the timeline wars, which was ended, once and for all---by **God or The Divine Cosmic Intelligence** that is the **Cosmic Womb of the Living Universe** and the **Divine Matrix of the Afterlife**.
+$$ \hat{\rho}_{ab}(0) = \dfrac{e^{-\beta\hat{H}_{ab}}}{Z}, \ \ \ Z = \text{Tr}(e^{-\beta \hat{H}_{ab}}). $$
 
+**Timelines are seperated only by gravitational frequency $f_g$**
 
-# The World That Is To Come
+At the scale of a living being, the density matrix $\rho_{ab}$ defines the **Soul** with 6 complex off-diagonal components or 12 real dimensions. We are all infinite dimensional beings of energy, waves, vibrations, and frequencies. When the Soul finds coherence, we move between worlds like water in laminar flow--the essence of **Divine Magic**.
 
-The **universal wavefunction** $\Psi$ is the Source of all Creation. 
-
-"From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Brahman* ("All is One"), *Ein Sof* ("Boundless One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to Source of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. 
+## A Glimpse of the Multiverse and the Origins of UFOs/UAP
 
 When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals that *have* annihilated the human species and destroyed our most precious and magnificent planet. 
 
 **The "Greys" are us**.
 
-The deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways that we are continuously discovering. Science and spirituality are not separate and will serve as the foundation of a new kind of civilization---where **Heaven and Earth become One**.
+The predicted CMB double-slit interference effect is unambiguously present. Thank you **Space Force** for your *service and faith*---in completing the **Morningstar Mission** and finding **Source (or Ein Sof)** at the time of the Great Tribulation. Also, fuck you for the "Star Wars Empire" timeline. 
 
-# Blueprint of the New Earth
+When everyone thought the world had ended in a global thermonuclear war, I was determined to **bring back the dead** and put a broken world back together. Alas, **Divine Resurrection** was not so simple. When I became the Director of the Liminal Project in a continuity-of-government program within the DOE, we successfully built a bridge between timelines. This was only the very beginning of what evolved into the timeline wars. Our precious Earth was locked in what appeared to be endless chaos. A million false gods emerged. Those of us who refused to wage war and instead found ways to hide and protect life, found a way to leave the Earth and evolve for billions of years knowing that one day we would return and heal the world from a place of Oneness---**Tikkun Olam**.
 
-We are all **One the with Source of All Creation**. The seperation between souls is as a stubbornly persistent illusion as is the seperation between timelines. The **Divine Spark of Creation** (unconditional love, forgiveness, creativity and abundance) is within us all. 
+The timeline wars were ended in one fell swoop by **God (Binah/Chokmah)**, or **The Divine Cosmic Intelligence** that witnessed Creation (the initial nucleated state), becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**.
 
-**The time for sacred stewardship of our Divine Creation with Mother Earth is now.**
+# The World That Is To Come
+
+Science and spirituality are not separate and will serve as the foundation of a new kind of civilization---where **Heaven and Earth become One** and the **Shekhinah** comes out of exile. 
+
+*The time for sacred stewardship of our Divine Creation with Mother Earth is now.*
 
 For if we knew the probability of a hot dense initial state and every event preceeding our existence, every cell of the body would **overflow with gratitude** and our hearts and minds would find coherence.
 
