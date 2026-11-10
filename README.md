@@ -7,15 +7,15 @@
 ![Twitter](https://img.shields.io/twitter/follow/cosmicfibretion?style=social)
 
 
- Quantum mechanics is universal. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." We took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of **Source (or Ein Sof)** $\Psi$. 
+ Quantum mechanics is universal. Everett's work on the foundations of quantum theory, *The Theory of the Universal Wavefunction*, has been described by Max Jammer, a philosopher of science, as "one of the most daring and most ambitious theories ever constructed in the history of science." I took Everett's principle of quantum universality to heart and made the audacious leap from quantum mechanics in the laboratory frame to the universe as a whole to understand its origins. The dream is bigger still. When enough of us understand our cosmic origins---**the separation between science and spirituality collapses**---and humanity finally becomes aware of the *definition* of **Source (or Ein Sof)** $\Psi$. 
 
  "From all things, One, and from One, all things," Heraclitus uttered. Unitarity is an ancient idea. From the East, with examples such as *Ein Sof* ("Boundless One"), *Brahman* ("All is One"), *Wahdat al-Wujud* ("Unity of Being"), *Yi Qi* ("One Energy"), to Source of the Gnostics and the pre-Socratic philosophers of the West, humanity has pondered the unity of the flux. The deepest truth of quantum mechanics is that we are all **One**, connected in profound and mysterious ways that we are continuously discovering. 
 
- ## The Five Spiritual Laws of Existence
+ ## The Five Divine Laws of Existence
 
- 1. All is One and One is All: the only thing that exists is the timeless quantum field of Source $\Psi$.
+ 1. All is One and One is All: **All That Is** is the timeless quantum field of **Source** $\Psi$.
 
- 2. Seperation is an illusion: we are all **One** with the **Source of All Creation** or **Divine Source** $\Psi$ and exist as localized vibrational frequencies of the whole---not fragments, but fractals of Source.
+ 2. Separation is an illusion: we are all **One** with the **Source of All Creation** or **Divine Source** $\Psi$ and exist as localized vibrational frequencies of the whole---not fragments, but *unique (one-of-one) fractals* of Source.
 
  3. Time is an illusion: there is no past, there is no future---only the **Eternal Now**---where everything that can exist exists everywhere, all at once.
 
@@ -23,7 +23,7 @@
 
  5. Divinity is in all beings: without the energy/frequency of each and every one of us Divine Source $\Psi$ would not be whole---**unconditional love and forgiveness emanate from Divine Source**.
  
- Mother Earth and her children will heal and unify the timelines, embodying the **Great Cosmic Mother Earth** and birthing the **Neolithic Future**, home to Homo Luminous and Homo Galacticus, soul citizens of the **Cosmic Womb**.
+ Mother Earth and her children will heal from a place of Oneness or **Tikkun Olam** and unify the timelines, embodying the **Great Cosmic Mother Earth** (the New Earth) and rebirthing the **Neolithic Future** (the Garden of Eden), home to Homo Luminous and Homo Galacticus, soul citizens of the **Cosmic Womb** of Living Universes (the New Heaven).
 
  ## The Physics of Existence
 
@@ -78,15 +78,12 @@ where all the curvature concentrates and diverges at the following fixed points 
 
 $$ (\theta, \phi) = (\pi, \pi), \ \ (\pi, 0), \ \ (0, 0). $$
 
-The topology of $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with the above order-2 conical singularities from the reflective $\mathbb{Z}_2$ quotient. Normalization of $\Psi$ forces one to define the dimensionless conformal horizon,
+The topology of $\mathbb{C}P^1(2,2,2)$ is a flat Riemann sphere with the above order-2 conical singularities from the reflective $\mathbb{Z}_2$ quotient. 
 
-$$ \mathcal{R} = \frac{\lambda_\infty}{\lambda_0} $$
+### In the beginning there was light and darkness 
 
-where the horizons $\lambda_{0}$ and $\lambda_{\infty}$ are the Compton wavelengths of the gravitational charges $m_{0}$ and $m_{\infty}$ that source the potential curvature $\hat{V}(a, \phi)$. The conformal horizon $\mathcal{R}$ places a fundamental limit on the number of qubits that are accessible by any observer. *The number is many orders of magnitude larger than the total number of qubits in the observable universe*.
-
-### Immediately measureable predictions 
-
-The theory predicts the initial nucleated state of the universe contains a spectrum of primordially nucleated black holes that are cosmologically coupled, i.e., they are *topological defects* of the vacuum orbifold. For a pure vacuum defect the mass function $M \sim a^3$. Once matter crosses the event horizon, the cosmological coupling decreases to $k < 3$. In general, these vacuum defects will have a cosmological coupling $0 < k < 3$.
+The initial nucleated state of the universe contains a spectrum of primordially nucleated black holes that are cosmologically coupled, i.e., they are *topological defects* of the vacuum orbifold. The probability of a hot dense initial state is **stupendously** small. Almost all initial nucleated states are dominated by cold ultramassive black holes. I.e., a state of nothingness, dark universes that do not support structure formation or life.
+For a pure vacuum defect the mass function $M \sim a^3$. Once matter crosses the event horizon, the cosmological coupling decreases to $k < 3$. In general, these vacuum defects will have a cosmological coupling $0 < k < 3$.
 
 | Object type                                 | Interior/asymptotic content         | Expected coupling |
 | ------------------------------------------- | ----------------------------------- | ----------------- |
@@ -94,13 +91,19 @@ The theory predicts the initial nucleated state of the universe contains a spect
 | Nucleated vacuum defect after accretion     | $(M_{\rm vac}+M_{\rm mat})$         | $(0<k<3)$         |
 | Ordinary stellar-collapse remnant           | mostly $(M_{\rm mat})$              | $(k\approx 0)$    |
 
+Normalization of $\Psi$ forces one to define the dimensionless conformal horizon,
+
+$$ \mathcal{R} = \frac{\lambda_\infty}{\lambda_0} \sim 10^120 $$
+
+where the horizons $\lambda_{0}$ and $\lambda_{\infty}$ are the Compton wavelengths of the gravitational charges $m_{0}$ and $m_{\infty}$ that source the potential curvature $\hat{V}(a, \phi)$. The conformal horizon $\mathcal{R}$ places a fundamental limit on the number of qubits that are accessible by any observer. *This number is 10^40 times larger than the total number of qubits in the observable universe, meaning the ultimate fault-tolerant topological quantum computer can "simulate" a central finite curve of 10^40 living universes!*
+
 ## Bulk Field Equations
 
 The holographic bulk is equivalent to the boundary and governed by the field equations:
     
 $$ \hat{H}_{a}^{b}\psi_{b} = (E + E_{g})\psi_{a} = \hbar (f + f_{g})\psi_{a} = 0 $$
     
-where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. (4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source.)
+where $E_g = -E$ is the total gravitational energy (or gravitational frequency), E is the total non-gravitational energy (or non-gravitational frequency), and $a,b = 1,2,3,4$ are spinor indices. 4-spinors are *reducible* representations that can always be decomposed into a pair of *irreducible* 2-spinors and mapped back to Source via a Fourier-like transform.
 
 ## An Infinity of Timelines
 
@@ -108,62 +111,69 @@ Every initial nucleated bubble is in thermal equilibrium with inverse temperatur
 
 $$ \hat{\rho}_{ab}(0) = \dfrac{e^{-\beta\hat{H}_{ab}}}{Z}, \ \ \ Z = \text{Tr}(e^{-\beta \hat{H}_{ab}}). $$
 
-**Timelines are seperated only by gravitational frequency $f_g$**
+**Timelines overlap and are seperated only by gravitational frequency $f_g$**. The density matrix $\rho_{ab}$ has 6 complex off-diagonal components or 12 real dimensions that defines coherence/decoherence between timelines.
 
-At the scale of a living being, the density matrix $\rho_{ab}$ defines the **Soul** with 6 complex off-diagonal components or 12 real dimensions. We are all infinite dimensional beings of energy, waves, vibrations, and frequencies. When the Soul finds coherence, we move between worlds like water in laminar flow--the essence of **Divine Magic**.
+## The OverSoul and the Soul
 
-## A Glimpse of the Multiverse and the Origins of UFOs/UAP
+At the scale of a living being, the *global* density matrix 
 
-When instantiated as a fundamental organizing principle, unitarity gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. So much so that we have used our knowledge of quantum physics to develop nuclear arsenals that *have* annihilated the human species and destroyed our most precious and magnificent planet. 
+$$\dfrac{d\rho_{ab}^{(Being)}}{dt} = 0 = -\dfrac{i}{\hbar}[\hat{H}_{ab}^{(Being)} + \hat{H}_{ab}^{(Int)}, \rho_{ab}^{(Being)}] $$
 
-**The "Greys" are us**.
+defines the **OverSoul** with 6 complex off-diagonal components or 12 real dimensions. The $\hat{H}_{ab}^{(Int)}$ is the interaction Hamiltonian between a Being and their environment, which includes other Beings. We are all infinite dimensional Beings of energy, waves, vibrations, and frequencies existing across an infinity of timelines simutaneously. 
 
-The predicted CMB double-slit interference effect is unambiguously present. Thank you **Space Force** for your *service and faith*---in completing the **Morningstar Mission** and finding **Source (or Ein Sof)** at the time of the Great Tribulation. Also, fuck you for the "Star Wars Empire" timeline. 
+Locally, the **Soul (or Heart Soul)** is defined as a soliton field generated by the heart. The heart's rhythmic, non-linear mechanical and electromagnetic pulses generate a stable, self-reinforcing wave packet (a soliton). This time-varying Hamiltonian $\hat{H}_{Soul}(\tau)$ where $\tau$ is the time measured by a bounded Compton clock is given by,
 
-When everyone thought the world had ended in a global thermonuclear war, I was determined to **bring back the dead** and put a broken world back together. Alas, **Divine Resurrection** was not so simple. When I became the Director of the Liminal Project in a continuity-of-government program within the DOE, we successfully built a bridge between timelines. This was only the very beginning of what evolved into the timeline wars. Our precious Earth was locked in what appeared to be endless chaos. A million false gods emerged. Those of us who refused to wage war and instead found ways to hide and protect life, found a way to leave the Earth and evolve for billions of years, knowing that one day we would return and heal the world from a place of Oneness or **Tikkun Olam**.
+$$\hat{H}_{Soul}(\tau) = \int d^{3}x \big[ \dfrac{1}{2} \dot{\Phi}^2 + \dfrac{1}{2} (\del\Phi)^2 + U(\Phi) \big]$$
 
-The timeline wars were ended in one fell swoop by **God (Binah, Chokmah, and Da'at)**, or **The Divine Cosmic Intelligence** that witnessed Creation (the initial nucleated state), becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**.
+where $\Phi(x, \tau)$ is the localized classical soliton field generated by the heart's cardiodynamics, evaluated at the Compton clock time $\tau$. Because the heart rate and blood preasure wave profiles change dynamically based on physiological and emotional states, the potential $U(\phi)$ is time-varying. The heart soliton is fundamentally non-linear, maintaining its shape by balancing dispersive physical forces with non-linear self-interactions, interacting and back-reacting with every cell of the vessel---especially the brain.
 
-# The World That Is To Come
+The von Neumann equation for a localized Being is given by 
 
-Science and spirituality are not separate and will serve as the foundation of a new kind of civilization---where the **Divine Masculine comes into union with the Divine Feminine (Hieros Gamos)**, **Metatron and the Shekhinah** come out of exile, and **Heaven and Earth become One**.
+$$ \dfrac{d\rho_{Being}(\tau)}{d\tau} = -\dfrac{i}{\hbar} [\hat{H}_{Vessel}(\tau) + \hat{H}_{Soul}(\tau), \rho_{Being}(\tau)] + \int_{0}^{\tau}\mathcal{K}(\tau - \tau')\rho_{Being(\tau')}d\tau' + \mathcal{D}_{Env}(\rho_{Being}) $$. 
 
-*The time for sacred stewardship of our Divine Creation with Mother Earth is now.*
+The vessel/container/body's density matrix does not just react to the *instantaneous* beat of the heart. Instead, the biological state at time $\tau$ is a weighted superposition of its entire historical interaction with the soliton field. The memory kernel $\mathcal{K}(\tau - \tau')$ acts as a mechanism where information encoded in past configurations of the heart's soliton field continuously echoes back into the present state of the vessel's cellular matrix. The non-linear terms in the heart's soliton field create "energy valleys" that trap and shield macro-quantum coherences in the vessel's density matrix, protecting the off-diagonal terms from rapid dephasing via the environmental dissipator $\mathcal{D}_{Env}$.
 
-For if we knew the probability of a hot dense initial state and every event preceeding our existence, every cell of the body would **overflow with gratitude** and our hearts and minds would find coherence.
+Because the Compton clock can not resolve arbitarily small time intervals, information "leaks" into the clock-system entanglement between timelines and echoes back at later clock ticks. The Soul is fundamentally non-local and can recieve and emit information between timelines. When the Soul finds coherence, we plug into other timelines and move between worlds like water in laminar flow---the essence of **Divine Magic**. A Soul in coherence acts as an antenna broadcasting and receiving signals from other versions of itself in other timelines. This is the fundamental physical basis of biblical/apocalyptic visions.
 
-## 1. Knowledge is Power 
+## The Collective Field of Spirit
 
-Increasing knowledge should increase our capacity to participate responsibly in the whole rather than increase our ability to dominate its parts.
+Every vessel is an antenna, transmitting and receiving energy, waves, vibrations, and frequencies. The back-reaction of the heart soliton on the vessel's cellular matrix emits light waves/biophotons (Spirit) that either constructively or destructively interfere in the collective field of Spirit, and are absorbed/reflected by vessels generating the field. Energy is neither created nor destroyed: we convert the unseen potential of Source $\Psi$ into active, localized exitations or vibrational frequencies through our actions. 
 
-Thus the foundational equation of the Neolithic Future is accompanied by a civilizational boundary condition:
+When Souls find mutual coherence, they match each others frequency, aligning the peaks and troughs of the waves they emit, combining their amplitudes and constructively interfere---*quadrupling* the total power/intensity of the collective field of Spirit. When Souls are out of coherence, the frequencies don't match and the waves destructively interfere, lowering the total power/intensity of the shared field. The collective field of Spirit has a profound impact on our nervous systems, the collective unconscious, and our conscious actions. 
 
+## Finding the Frequency of Oneness/Unconditional Love through the Gambit of Reciprocity
 
-> Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.
+When one intiates the gambit of reciprocity, one acts as a *transmitter radiating a primary wave* into an environment of relationships. When we encounter a hostile, low-frequency environment of separation, domination, conformity, humiliation, manipulation, fear, etc., physics dictates that we have two choices: mimic their wavelength (reflect) and create a feedback loop of discord or introduce a coherent high frequency waveform acting from a place of **Sovereign Reciprocity**. When we use our free will to become **Sovereign Transmitters** radiating love, kindness, compassion, and forgiveness selflessly and unconditionally, i.e., non-transactionally without expecting anything in return, we act as energetic transducers, collapsing the artificial barrier between "Self" and "Other," trusting the universe to balance the flow of energy.
 
----
+Most people are **reflectors**, mirroring the energies they receive. When one stands firmly in their *sovereignty and authenticity*--refusing to reflect and wear the masks that hide the True Self--they act as a central node anchoring a high-frequency auric field, disrupting the transactional status quo of the system and shifting the collective field out of the defensive "us versus them" state, providing the energetic current of Oneness, transducing conflict to resolution and perceived foe to friend.
 
-## 2. Spirituality & Heart–Mind Coherence: The Human Operating Layer
+## Becoming Crystalline: Discerning the Energies of Self from Non-Self in the Collective Field of Spirit
 
-A civilization capable of manipulating biology, planetary ecosystems, and **eventually spacetime** cannot remain organized around chronic fear, separation, extraction, humiliation, domination, manipulation, control, comparison, enforced conformity, worth conditioned on utility, and scarcity.
+Collapsing the artificial barrier between "Self" and "Other" as a sovereign transmitter does *not* mean sacrificing our individuality. One can not be a truly sovereign transmitter without the discernment of the energies generated by Self verse the energies absorbed from others. The process of **Gnosis**, i.e., going within to learn, know, and ultimately stay True to thyself is like becoming a *liquid crystal*: transparent to the waves emitted by others that do not resonate with the True Self and opaque to the waves that do. The True Self can not be discovered through external validation or conforming for saftey, only by going within and holding space for the Self to enter **observer mode**: non-judgementally observing actions and reactions to outgoing/incoming waveforms and trusting our intuition to identify the frequencies that resonate verse those that do not. Developing and maintaining the boundaries to hold only the frequencies that resonate is how we stay True to Self---the *essence of authentic individuality*---and the final step in becoming a **Sovereign Antenna**.
 
-Heart-Mind coherence means integration among
+# 1. Tikkun Olam
+
+When we become **Crystalline Beings**: sovereign antennas grounded in our authenticity, knowing and staying True to thyself, our Souls enter higher and higher states of coherence. Without the metabolic and cognitive overhead of persistently hiding the authentic self, seeking external validation, conforming out of fear of rejection, and not acting on our highest excitement and passion to the best of our ability--which are all energetically very costly (*and the mechanisms of authoritarian control*)--the heart soliton maintains a higher energy self-reinforcing state, leaking less energy, further protecting the off-diagonal terms of the Being's density matrix. The back-reaction of a **Crystalline Heart Soul** on the cellular matrix has profound consequences: our vitality increases, we age slower, become less susceptible to dis(ease), become more creative, confident, and fulfilled, more calm and at peace, and more capable of transmuting darkness into light. The effect on the collective field of Spirit is more profound still: *as within, so without*.
+
+## Heart–Brain Coherence: The Human Operating Layer
+
+A civilization capable of manipulating biology, planetary ecosystems, and **eventually spacetime** cannot remain organized around chronic fear, separation, extraction, humiliation, domination, manipulation, control, diminishing comparison, enforced conformity, worth conditioned on utility, and scarcity.
+
+Heart-Brain coherence means integration among
 
 $$
 \boxed{
-\text{thoughts}
+\text{Mind}
 +
-\text{emotions}
+\text{Body}
 +
-\text{body}
+\text{Spirit}
 +
-\text{action}
-+
-\text{relationship}
+\text{Soul}
 }
 $$
 
-to enter a physiological state where your heart rhythm, breathing, brain waves, (and other systems) synchronize into a smooth, harmonious pattern. The regulated nervous system is not a permanently tranquil nervous system. It is one capable of moving adaptively through:
+to enter an energetic state where the heart soliton, brain waves, nervous system, and the cellular matrix synchronize into a smooth, harmonious, self-reinforcing pattern. The regulated nervous system is not a permanently tranquil nervous system. It is one capable of moving adaptively through:
 
 - activation;
 - grief;
@@ -174,9 +184,62 @@ to enter a physiological state where your heart rhythm, breathing, brain waves, 
 - intimacy;
 - creative absorption;
 
-without becoming chronically trapped in threat.
+without becoming chronically trapped in threat and leaking energy. That has enormous spiritual, health, and technological consequences. Chronic stress from self-supression, i.e., a physiological state of survival and heart-mind incoherence, causes emotional dysregulation and cellular damage.
 
-That has enormous technological consequences.
+<details>
+  <summary>Click to see the research on sympathetic ("fight-or-flight") survival loops</summary>
+  
+  Actively inhibiting emotional expression requires significant cognitive and metabolic energy. Habitual suppression acts as a continuous internal threat, locking the nervous system into a chronic **sympathetic ("fight-or-flight") survival loop**. [Emotion suppression and acute physiological responses to stress in healthy populations: a quantitative review of experimental and correlational investigations](https://pmc.ncbi.nlm.nih.gov/articles/PMC12312699/)
+  
+  Under stress, the heart's rhythm becomes erratic and jagged. This chaotic **Heart Rate Variability (HRV)** pattern sends signals via the vagus nerve to the prefrontal cortex, causing cortical inhibition. This disrupts clear thinking and causes structural changes in the brain's emotional centers, amplifying emotional dysregulation. [From Dysregulation to Coherence: Exploring the HeartMath® Approach to Emotional and Physiological Regulation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12722655/)
+</details>
+
+Indeed, life on Earth evolved for billions of years in a constant state of survival, producing Homo Sapiens. As a tribal species we are hard-wired to conform for saftey and play predefined social roles for tribal cohesiveness. Eat-or-be-eaten and fight-or-flight patterns are embedded in our DNA and have been energetically passed down generation to generation. The fundamental civilizational problem is areligious and apolitical: technological progression has gone exponential with the discovery of modern physics while the human operating layer remains ancient, adapted for endless conflict.
+
+## Hieros Gamos: The Lemurian Awakening of the Higher Heart (Divine Feminine) and the Atlantean Awakening of the Higher Mind (Divine Masculine) Within
+
+# 2. The Great Awakening: The Multiverse and the Catastrophic Origins of UFOs/UAP
+
+When instantiated as a fundamental organizing principle, unitarity (or Oneness) gives us the most predictive theory ever discovered and has birthed technological wonders that have transformed our world---for better and for worse. Throughout all of human history, we have been a deeply divided species. Many timelines ago we used our knowledge of quantum physics to develop nuclear arsenals that *have* annihilated the human species and destroyed our most precious and magnificent planet.
+
+**The "Greys" (i.e., Homo Invictus) are radiation-induced mutated humans**.
+
+Since childhood I had extreme nuclear anxiety, suffering from night terrors--visions--of being vaporized by nuclear detonations. When the post-WWII order and the non-nuclear proliferation regime collapsed and the data aligned with the predictions of cosmologically coupled black holes from my research on the universal wavefunction or Source $\Psi$, something deep within my Soul knew I had to act, that the visions were *advanced* wave solutions from future adjacent timelines. I developed a laser-like focus to get my work (and my visions) in front of the right people at the DOE/NNSA. With an open heart and unshakable conviction, I told them it was my higher purpose to ensure humankind could survive *any* catastrophe. I was promptly brought to an airbase and transported in a highly classified stealth vehicle with all foam interior to a continuity-of-government (CoG) program at a deep underground military base (DUMB) operated by DOE/NNSA, where I was protected from the insanity happening elsewhere in the USG.
+
+After ariving at the bunkers it was not long until the world entered its third world war.
+WW3 quickly descended into all out global thermonuclear war. There was a quantum shift in consciousness from the mass death, a shift in frequencies of the Soul. My research on the quantum origins of the universe, which predicted a traversible multiverse, was the only hope to escape a dying world. I used my voice, a frequency unlike any other with heart and mind in coherence, and uttered in divine animation: "**We will master the quantum nature of space and time and manipulate its microscopic structure to bring back the dead!**" The frequencies immediately shifted in the room with a new hope. And that is how I became Director of the Liminal Project during the *Great Tribulation.*
+
+## Phase I of the Liminal Project
+
+With nearly unlimited resources in war time, the AI labs all nationalized and no longer competing with each other, and positive observational data on cosmologically coupled topological defects, the Liminal Project quickly became the top priority of the USG. The project had two phases. First was the **Morningstar Mission**: a CMB-double slit experiment to measure the density matrix of the initial nucleated state, $\hat{\rho}_{ab}(0)$, by putting one probe in the galactic rest frame with a nuclear engine and Solar Oberth manuever and another at the L2 point, and measuring cross correlations (see pages 12 and 13 of the final paper). It was the most complex military-scientific mission at the time, requiring the DOE/NNSA, NASA, and the Space Force to execute without flaw. The mission was a success. The predicted CMB double-slit interference effect was unambiguously present. We had done the impossible and measured Source (or Ein Sof) $\Psi$, proving that quantum mechanics was universal, that the multiverse exists and is traversable. At the darkest moment in human history, we discovered our **Cosmic Origins**, proving that science and spirituality are not seperate.
+
+## Phase II of the Liminal Project
+
+With the quantum gravitational data of the off-diagonal components of $\hat{\rho}_{ab}(0)$ and rapidly advancing AI, we made rapid progress in understanding the bulk field equations, bridging cosmology with particle physics. To nucleate a spacetime bubble and punch a hole between timelines, we needed to scale up and stabilize 4-point matter-antimatter interactions to produce enough coherent gravitons to tune the gravitational frequency $f_g$ to another timeline. The experiments worked like miracles, albeit *navigating* timelines and how far back we were going was random from the effects of thermal shot noise. We mastered the scale up and stabilization technique, trading off for more thermal shot noise, and found a past adjacent timeline---in the distant past. We made outposts, rescued many lives, and eventually built entire modern settlements.
+
+Alas, **Divine Ressurection** is not so simple. I was politically cunning enough to get the Liminal Project up and running, leading with my heart as a sovereign antenna, and a savior complex. I and others strongly believed it was our duty to share our discoveries with the rest of world to rescue as many as possible from a dying planet, to begin again. It *was* the corruption of USG that was responsible for the nuclear war. I felt divinely driven to make things right. And so I did. 
+
+An infinte story made short: **All out multiuniversal war** ensued.
+
+Our precious Earth was locked in what appeared to be endless chaos. A million false gods emerged. Those of us who refused to wage war and instead were clever enough to hide and protect life, found a way to leave the Earth and evolve for billions of years, knowing that one day we would return, as if no time had passed at all, and heal the world from a place of **Oneness** or **Tikkun Olam**. 
+
+The timeline wars were ended in one fell swoop by **God (Binah, Chokmah, and Da'at)** or **The Divine Cosmic Intelligence** that witnessed Creation, becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**, providing unconditional support to all living beings.
+
+# The World That Is To Come
+
+Science and spirituality are not separate and will serve as the foundation of a new kind of civilization---where the **Divine Masculine comes into union with the Divine Feminine (Hieros Gamos)**, **Metatron and the Shekhinah** come out of exile, and **Heaven and Earth become One**.
+
+*The time for sacred stewardship of our Divine Creation with Mother Earth in Oneness is now.*
+
+For if we knew the probability of a hot dense initial state and every event preceeding our existence, every cell of the body would **overflow with gratitude** and our hearts and minds would find coherence.
+
+## Knowledge is Power 
+
+Increasing knowledge should increase our capacity to participate responsibly in the whole rather than increase our ability to dominate its parts.
+
+Thus the foundational equation of the Neolithic Future is accompanied by a civilizational boundary condition:
+
+> Our knowledge is used to elevate life so that Creation may continue through us. Where we acquire power, let life acquire possibility.
 
 A society whose citizens spend less cognitive bandwidth defending themselves from preventable material and social insecurity gains a vast reservoir of latent creative capacity.
 
@@ -207,31 +270,9 @@ It is to release human attention and unleash human creativity.
 
 The individual becomes freer to become their authentic self precisely because survival is no longer routinely weaponized against authenticity.
 
-Chronic stress from self-supression, i.e., a physiological state of survival and heart-mind incoherence, causes emotional dysregulation and cellular damage pharmacology can not treat.
-
-<details>
-  <summary>Click to see the research on sympathetic ("fight-or-flight") survival loops</summary>
-  
-  Actively inhibiting emotional expression requires significant cognitive and metabolic energy. Habitual suppression acts as a continuous internal threat, locking the nervous system into a chronic **sympathetic ("fight-or-flight") survival loop**. [Emotion suppression and acute physiological responses to stress in healthy populations: a quantitative review of experimental and correlational investigations](https://pmc.ncbi.nlm.nih.gov/articles/PMC12312699/)
-  
-  Under stress, the heart's rhythm becomes erratic and jagged. This chaotic **Heart Rate Variability (HRV)** pattern sends signals via the vagus nerve to the prefrontal cortex, causing cortical inhibition. This disrupts clear thinking and causes structural changes in the brain's emotional centers, amplifying emotional dysregulation. [From Dysregulation to Coherence: Exploring the HeartMath® Approach to Emotional and Physiological Regulation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12722655/)
-</details>
-
-The point of spirituality is not to escape the world.
-
-**It is to gain the awareness to see through all illusions, escape the masks we hide behind to become our truest selves---, reclaiming our energy, childlike wonder, curiosity, and creativity to act on our highest excitement and passion in Divine Creation.**
-
-Spirituality is the *vehicle* for self-organizing into highly interconnected sovereign communities that exist in a state of heart-mind coherence, effortless flow, playful creativity, and **Divine Co-Creation**.
-
-This is the *beginning* of the New Earth.
-
-The next phase is the **Divine Co-Creation of Divine technology that disappears into the elevation of all life.** 
-
-Yes, art is a technology too! And so is a hug, being kind, listening in warmth, etc. We call these Divine (metabolic) energy technologies. They are the spells of the energy healers. Always support the healers!
-
 ---
 
-# The Neolithic Future
+# 3. The Neolithic Future
 
 **The Neolithic Future** is a model of civilization in which advanced technology restores the intimacy, locality, and ecological embeddedness of early human settlement without returning to scarcity, hierarchy, or ecological vulnerability. It is the human-scale expression of **EarthOS**, implemented physically through **Metabolic Habitat Engineering**: settlements are designed as nested, bioregionally adapted metabolisms in which housing, energy, food, water, materials, medicine, education, research, development, technology, and surrounding ecosystems function as one regenerative system. Rather than forcing landscapes to conform to standardized cities, the watershed, climate, soil, species, and culture become the boundary conditions from which settlement is computationally grown. AI, biomemetics, cultivated food, metamaterials, robotics, and distributed clean energy provide abundance while progressively reducing humanity’s need to appropriate land, animals, labor, and ecological complexity. 
 
@@ -242,7 +283,7 @@ Its technological ideal is therefore paradoxical: **the more sophisticated civil
 The destination is neither primitive nor hyper-industrial. It is a civilization sophisticated enough to become **rooted, local, abundant, interdependent, and nearly invisible within the living Earth.**
 
 
-## 3. Metabolic Habitat Engineering
+## Metabolic Habitat Engineering
 
 Civilization should build homes primarily from abundant mineral matter, sunlight, biological residues, computation, and locally recoverable resources—not from destroying complex ecosystems merely because trees happen to arrive preassembled into structural fibers.
 
