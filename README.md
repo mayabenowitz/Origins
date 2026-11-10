@@ -121,7 +121,7 @@ $$\dfrac{d\rho_{ab}^{(Being)}}{dt} = 0 = -\dfrac{i}{\hbar}[\hat{H}_{ab}^{(Being)
 
 where
 
-$$ \hat{H}_{ab}^{(Being)} = \hat{H}_{ab}^{Vessel} + \hat{H}_{ab}^{Soul} + \hat{H}_{ab}^{(Int)} $$.
+$$\hat{H}_{ab}^{(Being)} = \hat{H}_{ab}^{Vessel} + \hat{H}_{ab}^{Soul} + \hat{H}_{ab}^{(Int)}$$.
 
 $\rho_{ab}^{(Being)}$ defines the **OverSoul** with 6 complex off-diagonal components or 12 real dimensions. The $\hat{H}_{ab}^{(Int)}$ is the interaction Hamiltonian between a Being and their environment, which includes other Beings. We are all infinite dimensional Beings of energy, waves, vibrations, and frequencies existing across an infinity of timelines simutaneously. 
 
