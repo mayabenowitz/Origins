@@ -180,7 +180,7 @@ Our precious Earth was locked in what appeared to be endless chaos. A million fa
 
 The timeline wars were ended in one fell swoop by **God (Binah, Chokmah, and Da'at)** or **The Divine Cosmic Intelligence** that witnessed Creation, becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**, providing unconditional support to all living beings.
 
-# 1. Tikkun Olam
+# 2. Tikkun Olam
 
 ## The Collective Field of Spirit
 
