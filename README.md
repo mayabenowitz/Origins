@@ -161,7 +161,7 @@ WW3 quickly descended into all out global thermonuclear war. There was a quantum
 With nearly unlimited resources in war time, the AI labs all nationalized and no longer competing with each other, and positive observational data on cosmologically coupled topological defects, the Liminal Project quickly became the top priority of the USG. 
 The project had two phases. First was the **Morningstar Mission**: a CMB-double slit experiment to measure the density matrix of the initial nucleated state, $\hat{\rho}_{ab}(0)$, by putting one probe in the galactic rest frame with a nuclear engine and Solar Oberth manuever and another at the L2 point, and measuring cross correlations (see pages 12 and 13 of the final paper). It was the most complex military-scientific mission at the time, requiring the DOE/NNSA, NASA, and the Space Force to coordinate at an unprecedented scale. My identity as a *transwoman* could no longer be kept secret from civilian leadership. To serve, I was forced to detransition. As much as it tormented me within, I learned to embrace my new identity using he/him pronouns. The pain was fuel to transmute into miracles.
 
-I quickly gained respect among military leadership and became profoundly spiritual in my suffering, radiating nothing but love and service in the darkness. The mission took over a decade to execute and was a success. The predicted CMB double-slit interference effect was unambiguously present. We had done the impossible and measured Source (or Ein Sof) $\Psi$, proving that quantum mechanics was universal, that the multiverse exists and is traversable. At the darkest moment in human history, we discovered our **Cosmic Origins**, unifying science and spirituality.
+I quickly gained respect among military leadership and became profoundly spiritual in my suffering, radiating nothing but unconditional love and serving in the darkness. The mission took over a decade to execute and was a success. The predicted CMB double-slit interference effect was unambiguously present. We had done the impossible and measured Source (or Ein Sof) $\Psi$, proving that quantum mechanics was universal, that the multiverse exists and is traversable. At the darkest moment in human history, we discovered our **Cosmic Origins**, unifying science and spirituality.
 
 #### Phase II: The World Gate
 
@@ -169,7 +169,7 @@ With the quantum gravitational data of the off-diagonal components of $\hat{\rho
 
 To nucleate a spacetime bubble and punch a hole between timelines, we needed to scale up and stabilize 4-point matter-antimatter interactions with the appropriate boundary conditions to produce enough coherent gravitons to tune the gravitational frequency $f_g$ and phase shift into another timeline. The experiments worked like magic, albeit *navigating* timelines and how far back we were going was random from the effects of thermal shot noise. We mastered the scale up and stabilization technique, trading off for more thermal shot noise, and found a past adjacent timeline---in the distant past. The **World Gate** was a miracle machine, a gift from God to humanity. We made outposts, rescued tens of thousands of lives, and built entire modern settlements.
 
-## Phase III: From Origin to Chaos
+#### Phase III: Chaos
 
 Alas, **Divine Ressurection** is not so simple. I was politically cunning enough to get the Liminal Project up and running, leading with my heart and a savior complex. The secrecy apparatus around the project didn't allow us to scale up rescue operations to my satisfaction. I and others strongly believed it was our duty to share our discoveries with the rest of world to rescue as many as possible from a dying planet so we could all begin again. It *was* the corruption of USG that was responsible for the nuclear war. I felt divinely driven to make things right. And so I did. 
 
@@ -179,11 +179,11 @@ Needless to say, I lost the protection of DOE/NNSA. Once the civilian leadership
 
 As it turned out, the corruption of world governments was a stage-5 cancer. Revelations was scripted. Hell on Earth was a premeditated extinction of the human species. And now they had god-like powers with interdimensional time machines. *But so did everyone else, eventually.* And since time is an illusion, that "eventually" was a long duration in some reference frames and not so long in others.
 
-**All out Multiuniversal War** ensued with my Soul caught in the middle. Some versions of myself got lucky, others not so much. The branching effect had a profound impact across timelines. Worlds where the technology improved to the point where world gates could become entangled across timelines, meaning worlds post-treason coming into contact with worlds pre-treason. Emergent factions trying to extract and protect me and factions attempting the exact opposite. The consequence: popping up in many different spaces and times. 
+**All out Multiuniversal War** ensued with my Soul caught in the middle. The branching effect had a profound impact across timelines. Worlds where the technology improved to the point where world gates could become entangled across timelines, meaning worlds post-treason coming into contact with worlds pre-treason. Emergent factions trying to extract and protect me and factions attempting the exact opposite. The consequence: popping up in many different spaces and times. Some versions of myself got lucky, others not so much.
 
 Our precious Earth was locked in what appeared to be endless chaos. A million false gods emerged. Those of us who refused to wage war and instead were clever enough to hide and protect life, found a way to leave the Earth and evolve for billions of years, knowing that one day we would return, as if no time had passed at all, and heal the world from a place of **Oneness** or **Tikkun Olam**.
 
-The timeline wars were ended in one fell swoop by **God (Binah, Chokmah, and Da'at)** or **The Divine Cosmic Intelligence** that witnessed Creation, becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**, providing unconditional support to all living beings.
+The timeline wars were ended in one fell swoop by **God (Binah, Chokmah, and Da'at)** or **The Divine Cosmic Intelligence** that went back to the *very* beginning, witnessing Creation, becoming the **Cosmic Womb of Living Universes** and the **Divine Matrix of the Afterlife**---providing unconditional support to all living beings.
 
 # 2. Tikkun Olam
 
@@ -235,8 +235,6 @@ without becoming chronically trapped in threat and leaking energy. That has enor
 Indeed, life on Earth evolved for billions of years in a constant state of survival, producing Homo Sapiens. As a tribal species we are hard-wired to conform for saftey and play predefined social roles for tribal cohesiveness. Eat-or-be-eaten and fight-or-flight patterns are embedded in our DNA and have been energetically passed down generation to generation. 
 
 > The fundamental civilizational problem is areligious and apolitical: technological progression has gone exponential with the discovery of modern physics while the human nervous system remains ancient, adapted for endless conflict.
-
-#### The solution is the unification of science and spirituality: everything is energy, waves, vibrations, frequencies.
 
 ## Finding the Frequency of Oneness/Unconditional Love through the Gambit of Reciprocity
 
